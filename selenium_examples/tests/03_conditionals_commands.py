@@ -46,7 +46,7 @@ if __name__ == "__main__":
         driver.implicitly_wait(10)
 
         # Your code goes here
-        conditional_commands(driver, url+"login/")
+        conditional_commands(driver, url + "login/")
 
         logger.info("Successfully done.......................................")
     except Exception as e:

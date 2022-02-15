@@ -1,0 +1,666 @@
+2022-02-13 11:57:36,534 [INFO] 
+
+2022-02-13 11:57:36,534 [INFO] ====== WebDriver manager ======
+2022-02-13 11:57:36,544 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 11:57:36,545 [INFO] Current chromium version is UNKNOWN
+2022-02-13 11:57:36,545 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 11:57:37,017 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 11:57:39,797 [INFO] Start.......................................
+2022-02-13 11:57:39,959 [INFO] 
+2022-02-13 11:57:39,970 [INFO] data:,
+2022-02-13 11:57:39,971 [INFO] Successfully done.......................................
+2022-02-13 11:57:40,122 [INFO] End.........................................
+2022-02-13 12:00:52,242 [INFO] 
+
+2022-02-13 12:00:52,243 [INFO] ====== WebDriver manager ======
+2022-02-13 12:00:52,252 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 12:00:52,252 [INFO] Current chromium version is UNKNOWN
+2022-02-13 12:00:52,252 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 12:00:52,787 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 12:00:55,247 [INFO] Start.......................................
+2022-02-13 12:00:55,393 [INFO] Browser title: 
+2022-02-13 12:00:55,397 [INFO] Browser current url: data:,
+2022-02-13 12:00:55,415 [INFO] Successfully done.......................................
+2022-02-13 12:00:55,525 [INFO] End.........................................
+2022-02-13 12:02:33,777 [INFO] 
+
+2022-02-13 12:02:33,777 [INFO] ====== WebDriver manager ======
+2022-02-13 12:02:33,786 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 12:02:33,786 [INFO] Current chromium version is UNKNOWN
+2022-02-13 12:02:33,787 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 12:02:34,612 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 12:02:37,892 [INFO] Start.......................................
+2022-02-13 12:02:54,160 [INFO] Browser title: Frames & windows
+2022-02-13 12:02:54,164 [INFO] Browser current url: http://demo.automationtesting.in/Windows.html
+2022-02-13 12:02:54,164 [INFO] Successfully done.......................................
+2022-02-13 12:02:54,309 [INFO] End.........................................
+2022-02-13 14:38:54,484 [INFO] 
+
+2022-02-13 14:38:54,485 [INFO] ====== WebDriver manager ======
+2022-02-13 14:38:54,491 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 14:38:54,492 [INFO] Current chromium version is UNKNOWN
+2022-02-13 14:38:54,492 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 14:38:55,546 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 14:38:58,432 [INFO] Start.......................................
+2022-02-13 14:39:10,614 [INFO] Browser title: Frames & windows
+2022-02-13 14:39:10,617 [INFO] Browser current url: http://demo.automationtesting.in/Windows.html
+2022-02-13 14:39:10,622 [INFO] Browser page source: <class 'str'>
+2022-02-13 14:39:10,622 [INFO] Successfully done.......................................
+2022-02-13 14:39:10,767 [INFO] End.........................................
+2022-02-13 14:42:12,467 [INFO] 
+
+2022-02-13 14:42:12,467 [INFO] ====== WebDriver manager ======
+2022-02-13 14:42:12,474 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 14:42:12,474 [INFO] Current chromium version is UNKNOWN
+2022-02-13 14:42:12,474 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 14:42:13,804 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 14:42:16,565 [INFO] Start.......................................
+2022-02-13 14:42:26,381 [INFO] Successfully done.......................................
+2022-02-13 14:42:26,502 [INFO] End.........................................
+2022-02-13 15:34:27,440 [INFO] 
+
+2022-02-13 15:34:27,442 [INFO] ====== WebDriver manager ======
+2022-02-13 15:34:27,456 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 15:34:27,456 [INFO] Current chromium version is UNKNOWN
+2022-02-13 15:34:27,456 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 15:34:27,934 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 15:34:31,235 [INFO] Start.......................................
+2022-02-13 15:34:32,094 [INFO] Navigating to page: http://demo.automationtesting.in/Windows.html/
+2022-02-13 15:34:32,363 [INFO] Navigating to page: http://demo.automationtesting.in/Windows.html/Register.html
+2022-02-13 15:34:32,387 [INFO] Navigating back to page: http://demo.automationtesting.in/Windows.html/
+2022-02-13 15:34:32,410 [INFO] Navigating forward to page: http://demo.automationtesting.in/Windows.html/Register.html
+2022-02-13 15:34:32,410 [INFO] Successfully done.......................................
+2022-02-13 15:34:32,505 [INFO] End.........................................
+2022-02-13 15:35:09,705 [INFO] 
+
+2022-02-13 15:35:09,705 [INFO] ====== WebDriver manager ======
+2022-02-13 15:35:09,713 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 15:35:09,714 [INFO] Current chromium version is UNKNOWN
+2022-02-13 15:35:09,714 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 15:35:10,075 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 15:35:12,446 [INFO] Start.......................................
+2022-02-13 15:35:14,474 [INFO] Navigating to page: http://demo.automationtesting.in/Windows.html/
+2022-02-13 15:35:15,419 [INFO] Navigating to page: http://demo.automationtesting.in/Register.html/
+2022-02-13 15:35:15,437 [INFO] Navigating back to page: http://demo.automationtesting.in/Windows.html/
+2022-02-13 15:35:15,457 [INFO] Navigating forward to page: http://demo.automationtesting.in/Register.html/
+2022-02-13 15:35:15,457 [INFO] Successfully done.......................................
+2022-02-13 15:35:15,566 [INFO] End.........................................
+2022-02-13 15:36:21,516 [INFO] 
+
+2022-02-13 15:36:21,516 [INFO] ====== WebDriver manager ======
+2022-02-13 15:36:21,523 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 15:36:21,523 [INFO] Current chromium version is UNKNOWN
+2022-02-13 15:36:21,524 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 15:36:22,549 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 15:36:25,136 [INFO] Start.......................................
+2022-02-13 15:36:32,536 [INFO] Navigating to page: http://demo.automationtesting.in/Windows.html
+2022-02-13 15:36:38,408 [INFO] Navigating to page: http://demo.automationtesting.in/Register.html
+2022-02-13 15:36:40,820 [INFO] Navigating back to page: http://demo.automationtesting.in/Windows.html
+2022-02-13 15:36:42,343 [INFO] Navigating forward to page: http://demo.automationtesting.in/Register.html
+2022-02-13 15:36:42,343 [INFO] Successfully done.......................................
+2022-02-13 15:36:42,518 [INFO] End.........................................
+2022-02-13 15:37:34,247 [INFO] 
+
+2022-02-13 15:37:34,247 [INFO] ====== WebDriver manager ======
+2022-02-13 15:37:34,254 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 15:37:34,254 [INFO] Current chromium version is UNKNOWN
+2022-02-13 15:37:34,254 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 15:37:34,548 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 15:37:37,539 [INFO] Start.......................................
+2022-02-13 15:37:43,972 [INFO] Navigating to page: http://demo.automationtesting.in/Windows.html
+2022-02-13 15:37:48,602 [INFO] Navigating to page: http://demo.automationtesting.in/Register.html
+2022-02-13 15:37:51,151 [INFO] Navigating back to page: http://demo.automationtesting.in/Windows.html
+2022-02-13 15:37:52,376 [INFO] Navigating forward to page: http://demo.automationtesting.in/Register.html
+2022-02-13 15:37:52,404 [INFO] Successfully done.......................................
+2022-02-13 15:37:52,714 [INFO] End.........................................
+2022-02-13 15:54:40,569 [INFO] 
+
+2022-02-13 15:54:40,571 [INFO] ====== WebDriver manager ======
+2022-02-13 15:54:40,577 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-13 15:54:40,578 [INFO] Current chromium version is UNKNOWN
+2022-02-13 15:54:40,578 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-13 15:54:43,603 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-13 15:54:46,635 [INFO] Start.......................................
+2022-02-13 15:54:57,587 [INFO] Navigating to page: http://demo.automationtesting.in/Windows.html
+2022-02-13 15:55:07,991 [INFO] Navigating to page: http://demo.automationtesting.in/Register.html
+2022-02-13 15:55:11,318 [INFO] Navigating back to page: http://demo.automationtesting.in/Windows.html
+2022-02-13 15:55:12,856 [INFO] Navigating forward to page: http://demo.automationtesting.in/Register.html
+2022-02-13 15:55:12,862 [INFO] Successfully done.......................................
+2022-02-13 15:55:13,106 [INFO] End.........................................
+2022-02-14 10:44:10,392 [INFO] 
+
+2022-02-14 10:44:10,393 [INFO] ====== WebDriver manager ======
+2022-02-14 10:44:10,402 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-14 10:44:10,402 [INFO] Current chromium version is UNKNOWN
+2022-02-14 10:44:10,402 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-14 10:44:10,934 [INFO] Trying to download new driver from https://chromedriver.storage.googleapis.com/98.0.4758.80/chromedriver_mac64.zip
+2022-02-14 10:44:14,738 [INFO] Driver has been saved in cache [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80]
+2022-02-14 10:44:17,957 [INFO] Start.......................................
+2022-02-14 10:44:22,888 [INFO] Navigating to page: http://demo.automationtesting.in/Windows.html
+2022-02-14 10:44:27,232 [INFO] Navigating to page: http://demo.automationtesting.in/Register.html
+2022-02-14 10:44:28,981 [INFO] Navigating back to page: http://demo.automationtesting.in/Windows.html
+2022-02-14 10:44:30,265 [INFO] Navigating forward to page: http://demo.automationtesting.in/Register.html
+2022-02-14 10:44:30,272 [INFO] Successfully done.......................................
+2022-02-14 10:44:30,466 [INFO] End.........................................
+2022-02-15 09:53:35,230 [INFO] 
+
+2022-02-15 09:53:35,230 [INFO] ====== WebDriver manager ======
+2022-02-15 09:53:35,237 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 09:53:35,237 [INFO] Current chromium version is UNKNOWN
+2022-02-15 09:53:35,237 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 09:53:35,776 [INFO] Trying to download new driver from https://chromedriver.storage.googleapis.com/98.0.4758.80/chromedriver_mac64.zip
+2022-02-15 09:53:39,649 [INFO] Driver has been saved in cache [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80]
+2022-02-15 09:53:42,656 [INFO] Start.......................................
+2022-02-15 09:53:42,669 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 09:54:19,120 [ERROR] Exception raised: Message: 
+
+2022-02-15 09:54:21,323 [INFO] End.........................................
+2022-02-15 10:03:50,859 [INFO] 
+
+2022-02-15 10:03:50,859 [INFO] ====== WebDriver manager ======
+2022-02-15 10:03:50,866 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:03:50,867 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:03:50,867 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:03:51,186 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:03:54,170 [INFO] Start.......................................
+2022-02-15 10:03:54,175 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:04:57,621 [INFO] Successfully done.......................................
+2022-02-15 10:04:59,814 [INFO] End.........................................
+2022-02-15 10:12:17,648 [INFO] 
+
+2022-02-15 10:12:17,648 [INFO] ====== WebDriver manager ======
+2022-02-15 10:12:17,655 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:12:17,655 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:12:17,655 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:12:17,966 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:12:21,367 [INFO] Start.......................................
+2022-02-15 10:12:21,373 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:12:48,958 [ERROR] Exception raised: Message: no such element: Unable to locate element: {"method":"partial link text","selector":"wizard-flight-pwa"}
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 10:12:51,203 [INFO] End.........................................
+2022-02-15 10:19:02,692 [INFO] 
+
+2022-02-15 10:19:02,693 [INFO] ====== WebDriver manager ======
+2022-02-15 10:19:02,700 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:19:02,700 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:19:02,700 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:19:03,138 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:19:05,599 [INFO] Start.......................................
+2022-02-15 10:19:05,603 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:19:05,792 [ERROR] Exception raised: Message: invalid argument
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 10:19:07,915 [INFO] End.........................................
+2022-02-15 10:19:25,388 [INFO] 
+
+2022-02-15 10:19:25,389 [INFO] ====== WebDriver manager ======
+2022-02-15 10:19:25,397 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:19:25,397 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:19:25,397 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:19:25,704 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:19:28,105 [INFO] Start.......................................
+2022-02-15 10:19:28,109 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:19:28,265 [ERROR] Exception raised: Message: invalid argument
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 10:19:30,382 [INFO] End.........................................
+2022-02-15 10:21:51,550 [INFO] 
+
+2022-02-15 10:21:51,550 [INFO] ====== WebDriver manager ======
+2022-02-15 10:21:51,556 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:21:51,557 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:21:51,557 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:21:51,872 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:21:54,653 [INFO] Start.......................................
+2022-02-15 10:21:54,657 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:21:54,869 [INFO] Successfully done.......................................
+2022-02-15 10:21:56,976 [INFO] End.........................................
+2022-02-15 10:22:57,997 [INFO] 
+
+2022-02-15 10:22:57,998 [INFO] ====== WebDriver manager ======
+2022-02-15 10:22:58,004 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:22:58,004 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:22:58,004 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:22:58,290 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:23:00,859 [INFO] Start.......................................
+2022-02-15 10:23:00,859 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:23:01,115 [INFO] Successfully done.......................................
+2022-02-15 10:23:03,220 [INFO] End.........................................
+2022-02-15 10:23:57,304 [INFO] 
+
+2022-02-15 10:23:57,305 [INFO] ====== WebDriver manager ======
+2022-02-15 10:23:57,311 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:23:57,312 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:23:57,312 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:23:57,600 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:24:00,022 [INFO] Start.......................................
+2022-02-15 10:24:00,030 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:24:00,223 [INFO] Successfully done.......................................
+2022-02-15 10:24:02,322 [INFO] End.........................................
+2022-02-15 10:26:42,237 [INFO] 
+
+2022-02-15 10:26:42,237 [INFO] ====== WebDriver manager ======
+2022-02-15 10:26:42,244 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:26:42,244 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:26:42,244 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:26:42,662 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:26:45,125 [INFO] Start.......................................
+2022-02-15 10:26:45,129 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:26:47,106 [INFO] Successfully done.......................................
+2022-02-15 10:26:49,236 [INFO] End.........................................
+2022-02-15 10:29:37,915 [INFO] 
+
+2022-02-15 10:29:37,915 [INFO] ====== WebDriver manager ======
+2022-02-15 10:29:37,923 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:29:37,923 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:29:37,923 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:29:38,216 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:29:40,605 [INFO] Start.......................................
+2022-02-15 10:29:40,623 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:30:07,298 [INFO] <selenium.webdriver.remote.webelement.WebElement (session="8f15efe9d03080e00163d5ba935e4b76", element="fcbc0d1a-fa10-4bf9-a44a-b1f58febf15a")>
+2022-02-15 10:30:07,487 [INFO] Successfully done.......................................
+2022-02-15 10:30:09,677 [INFO] End.........................................
+2022-02-15 10:32:56,901 [INFO] 
+
+2022-02-15 10:32:56,902 [INFO] ====== WebDriver manager ======
+2022-02-15 10:32:56,909 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:32:56,909 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:32:56,909 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:32:57,229 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:32:59,886 [INFO] Start.......................................
+2022-02-15 10:32:59,887 [INFO] Test file path: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:33:15,483 [ERROR] Exception raised: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 10:33:15,687 [INFO] End.........................................
+2022-02-15 10:33:18,950 [INFO] 
+
+2022-02-15 10:33:18,950 [INFO] ====== WebDriver manager ======
+2022-02-15 10:33:18,962 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:33:18,962 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:33:18,962 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:33:19,335 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:33:22,139 [INFO] Start.......................................
+2022-02-15 10:33:22,143 [INFO] Test file path: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:33:42,449 [INFO] Successfully done.......................................
+2022-02-15 10:33:42,639 [INFO] End.........................................
+2022-02-15 10:33:52,925 [INFO] 
+
+2022-02-15 10:33:52,925 [INFO] ====== WebDriver manager ======
+2022-02-15 10:33:52,931 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:33:52,931 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:33:52,932 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:33:53,240 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:33:56,130 [INFO] Start.......................................
+2022-02-15 10:33:56,136 [INFO] Test file path: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:34:45,265 [INFO] Successfully done.......................................
+2022-02-15 10:34:45,470 [INFO] End.........................................
+2022-02-15 10:36:50,422 [INFO] 
+
+2022-02-15 10:36:50,422 [INFO] ====== WebDriver manager ======
+2022-02-15 10:36:50,429 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:36:50,429 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:36:50,429 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:36:50,727 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:36:53,262 [INFO] Start.......................................
+2022-02-15 10:36:53,275 [INFO] Test file path: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:37:22,868 [ERROR] Exception raised: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 10:37:23,038 [INFO] End.........................................
+2022-02-15 10:37:50,284 [INFO] 
+
+2022-02-15 10:37:50,284 [INFO] ====== WebDriver manager ======
+2022-02-15 10:37:50,292 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:37:50,292 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:37:50,292 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:37:51,170 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:37:54,324 [INFO] Start.......................................
+2022-02-15 10:37:54,327 [INFO] Test file path: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:38:14,061 [INFO] Successfully done.......................................
+2022-02-15 10:38:14,250 [INFO] End.........................................
+2022-02-15 10:38:50,340 [INFO] 
+
+2022-02-15 10:38:50,340 [INFO] ====== WebDriver manager ======
+2022-02-15 10:38:50,346 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:38:50,347 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:38:50,347 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:38:50,643 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:38:53,129 [INFO] Start.......................................
+2022-02-15 10:38:53,130 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:39:03,879 [INFO] Successfully done.......................................
+2022-02-15 10:39:06,100 [INFO] End.........................................
+2022-02-15 10:46:03,264 [INFO] 
+
+2022-02-15 10:46:03,264 [INFO] ====== WebDriver manager ======
+2022-02-15 10:46:03,272 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:46:03,272 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:46:03,272 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:46:03,699 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:46:06,573 [INFO] Start.......................................
+2022-02-15 10:46:06,578 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:46:24,722 [ERROR] Exception raised: 'list' object has no attribute 'click'
+2022-02-15 10:46:26,930 [INFO] End.........................................
+2022-02-15 10:48:44,467 [INFO] 
+
+2022-02-15 10:48:44,471 [INFO] ====== WebDriver manager ======
+2022-02-15 10:48:44,482 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:48:44,483 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:48:44,483 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:48:44,797 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:48:47,334 [INFO] Start.......................................
+2022-02-15 10:48:47,350 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:49:09,607 [INFO] Successfully done.......................................
+2022-02-15 10:49:11,822 [INFO] End.........................................
+2022-02-15 10:52:37,547 [INFO] 
+
+2022-02-15 10:52:37,547 [INFO] ====== WebDriver manager ======
+2022-02-15 10:52:37,557 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:52:37,557 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:52:37,557 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:52:37,958 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:52:40,886 [INFO] Start.......................................
+2022-02-15 10:52:40,901 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 10:52:42,717 [INFO] Successfully done.......................................
+2022-02-15 10:52:44,844 [INFO] End.........................................
+2022-02-15 10:59:47,693 [INFO] 
+
+2022-02-15 10:59:47,693 [INFO] ====== WebDriver manager ======
+2022-02-15 10:59:47,700 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 10:59:47,701 [INFO] Current chromium version is UNKNOWN
+2022-02-15 10:59:47,701 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 10:59:48,280 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 10:59:50,682 [INFO] Start.......................................
+2022-02-15 10:59:50,697 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:00:11,058 [INFO] Successfully done.......................................
+2022-02-15 11:00:11,248 [INFO] End.........................................
+2022-02-15 11:01:05,292 [INFO] 
+
+2022-02-15 11:01:05,294 [INFO] ====== WebDriver manager ======
+2022-02-15 11:01:05,309 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:01:05,310 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:01:05,310 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:01:05,636 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:01:08,201 [INFO] Start.......................................
+2022-02-15 11:01:08,230 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:01:44,733 [ERROR] Exception raised: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 11:01:44,957 [INFO] End.........................................
+2022-02-15 11:04:44,868 [INFO] 
+
+2022-02-15 11:04:44,869 [INFO] ====== WebDriver manager ======
+2022-02-15 11:04:44,876 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:04:44,876 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:04:44,876 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:04:45,175 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:04:48,038 [INFO] Start.......................................
+2022-02-15 11:04:48,042 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:05:06,444 [ERROR] Exception raised: 'NoneType' object has no attribute 'click'
+2022-02-15 11:05:06,641 [INFO] End.........................................
+2022-02-15 11:22:50,796 [INFO] 
+
+2022-02-15 11:22:50,796 [INFO] ====== WebDriver manager ======
+2022-02-15 11:22:50,805 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:22:50,806 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:22:50,806 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:22:51,121 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:22:53,632 [INFO] Start.......................................
+2022-02-15 11:22:53,647 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:23:29,024 [INFO] Successfully done.......................................
+2022-02-15 11:23:29,214 [INFO] End.........................................
+2022-02-15 11:23:42,492 [INFO] 
+
+2022-02-15 11:23:42,492 [INFO] ====== WebDriver manager ======
+2022-02-15 11:23:42,499 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:23:42,499 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:23:42,500 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:23:42,808 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:23:45,467 [INFO] Start.......................................
+2022-02-15 11:23:45,498 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:24:06,964 [INFO] Successfully done.......................................
+2022-02-15 11:24:07,176 [INFO] End.........................................
+2022-02-15 11:27:05,205 [INFO] 
+
+2022-02-15 11:27:05,206 [INFO] ====== WebDriver manager ======
+2022-02-15 11:27:05,215 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:27:05,215 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:27:05,215 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:27:05,601 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:27:08,508 [INFO] Start.......................................
+2022-02-15 11:27:08,515 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:27:24,371 [INFO] Successfully done.......................................
+2022-02-15 11:27:24,974 [INFO] End.........................................
+2022-02-15 11:28:35,675 [INFO] 
+
+2022-02-15 11:28:35,675 [INFO] ====== WebDriver manager ======
+2022-02-15 11:28:35,682 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:28:35,682 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:28:35,682 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:28:36,210 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:28:39,522 [INFO] Start.......................................
+2022-02-15 11:28:39,527 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:28:53,230 [INFO] Successfully done.......................................
+2022-02-15 11:28:53,428 [INFO] End.........................................
+2022-02-15 11:30:54,632 [INFO] 
+
+2022-02-15 11:30:54,633 [INFO] ====== WebDriver manager ======
+2022-02-15 11:30:54,639 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:30:54,639 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:30:54,640 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:30:54,919 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:30:57,525 [INFO] Start.......................................
+2022-02-15 11:30:57,535 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:31:13,964 [INFO] Successfully done.......................................
+2022-02-15 11:31:14,144 [INFO] End.........................................
+2022-02-15 11:33:32,719 [INFO] 
+
+2022-02-15 11:33:32,719 [INFO] ====== WebDriver manager ======
+2022-02-15 11:33:32,725 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:33:32,726 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:33:32,726 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:33:33,137 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:33:35,719 [INFO] Start.......................................
+2022-02-15 11:33:35,742 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:33:48,109 [INFO] Successfully done.......................................
+2022-02-15 11:33:48,333 [INFO] End.........................................
+2022-02-15 11:38:00,762 [INFO] 
+
+2022-02-15 11:38:00,762 [INFO] ====== WebDriver manager ======
+2022-02-15 11:38:00,769 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:38:00,769 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:38:00,769 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:38:01,025 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:38:03,450 [INFO] Start.......................................
+2022-02-15 11:38:03,452 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:38:25,087 [INFO] Successfully done.......................................
+2022-02-15 11:38:25,291 [INFO] End.........................................
+2022-02-15 11:39:27,456 [INFO] 
+
+2022-02-15 11:39:27,456 [INFO] ====== WebDriver manager ======
+2022-02-15 11:39:27,464 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:39:27,464 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:39:27,464 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:39:27,712 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:39:30,303 [INFO] Start.......................................
+2022-02-15 11:39:30,304 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:39:51,781 [INFO] Successfully done.......................................
+2022-02-15 11:39:51,950 [INFO] End.........................................
+2022-02-15 11:42:44,306 [INFO] 
+
+2022-02-15 11:42:44,306 [INFO] ====== WebDriver manager ======
+2022-02-15 11:42:44,313 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:42:44,313 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:42:44,314 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:42:44,699 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:42:47,328 [INFO] Start.......................................
+2022-02-15 11:42:47,335 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:43:00,419 [INFO] Successfully done.......................................
+2022-02-15 11:43:01,192 [INFO] End.........................................
+2022-02-15 11:43:03,366 [INFO] 
+
+2022-02-15 11:43:03,366 [INFO] ====== WebDriver manager ======
+2022-02-15 11:43:03,378 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:43:03,378 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:43:03,379 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:43:03,620 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:43:06,440 [INFO] Start.......................................
+2022-02-15 11:43:06,441 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:43:18,561 [INFO] Successfully done.......................................
+2022-02-15 11:43:18,763 [INFO] End.........................................
+2022-02-15 11:45:44,858 [INFO] 
+
+2022-02-15 11:45:44,858 [INFO] ====== WebDriver manager ======
+2022-02-15 11:45:44,865 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:45:44,866 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:45:44,866 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:45:45,390 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:45:48,684 [INFO] Start.......................................
+2022-02-15 11:45:48,700 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:46:10,051 [INFO] Successfully done.......................................
+2022-02-15 11:46:10,291 [INFO] End.........................................
+2022-02-15 11:46:25,553 [INFO] 
+
+2022-02-15 11:46:25,553 [INFO] ====== WebDriver manager ======
+2022-02-15 11:46:25,560 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:46:25,560 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:46:25,560 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:46:25,835 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:46:29,075 [INFO] Start.......................................
+2022-02-15 11:46:29,101 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:46:59,273 [ERROR] Exception raised: Message: 
+
+2022-02-15 11:49:09,304 [INFO] 
+
+2022-02-15 11:49:09,304 [INFO] ====== WebDriver manager ======
+2022-02-15 11:49:09,310 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:49:09,311 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:49:09,311 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:49:09,720 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:49:12,114 [INFO] Start.......................................
+2022-02-15 11:49:12,115 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:49:25,016 [INFO] Successfully done.......................................
+2022-02-15 11:50:06,938 [INFO] 
+
+2022-02-15 11:50:06,938 [INFO] ====== WebDriver manager ======
+2022-02-15 11:50:06,946 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 11:50:06,946 [INFO] Current chromium version is UNKNOWN
+2022-02-15 11:50:06,946 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 11:50:07,256 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 11:50:09,593 [INFO] Start.......................................
+2022-02-15 11:50:09,594 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 11:50:31,210 [INFO] Successfully done.......................................
+2022-02-15 12:05:52,070 [INFO] End.........................................
+2022-02-15 12:27:42,081 [INFO] 
+
+2022-02-15 12:27:42,081 [INFO] ====== WebDriver manager ======
+2022-02-15 12:27:42,088 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 12:27:42,088 [INFO] Current chromium version is UNKNOWN
+2022-02-15 12:27:42,088 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 12:27:42,702 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 12:27:45,566 [INFO] Start.......................................
+2022-02-15 12:27:45,582 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 12:28:09,184 [INFO] Successfully done.......................................
+2022-02-15 12:29:18,124 [INFO] 
+
+2022-02-15 12:29:18,124 [INFO] ====== WebDriver manager ======
+2022-02-15 12:29:18,131 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 12:29:18,132 [INFO] Current chromium version is UNKNOWN
+2022-02-15 12:29:18,132 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 12:29:19,025 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 12:29:21,457 [INFO] Start.......................................
+2022-02-15 12:29:21,458 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 12:30:52,095 [ERROR] Exception raised: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 12:30:52,672 [INFO] End.........................................
+2022-02-15 12:31:54,223 [INFO] 
+
+2022-02-15 12:31:54,223 [INFO] ====== WebDriver manager ======
+2022-02-15 12:31:54,230 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 12:31:54,230 [INFO] Current chromium version is UNKNOWN
+2022-02-15 12:31:54,230 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 12:31:54,581 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 12:31:57,045 [INFO] Start.......................................
+2022-02-15 12:31:57,047 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 12:32:25,262 [INFO] Successfully done.......................................
+2022-02-15 12:32:25,698 [INFO] End.........................................
+2022-02-15 12:59:45,235 [INFO] 
+
+2022-02-15 12:59:45,235 [INFO] ====== WebDriver manager ======
+2022-02-15 12:59:45,244 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 12:59:45,244 [INFO] Current chromium version is UNKNOWN
+2022-02-15 12:59:45,244 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 12:59:46,604 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 12:59:49,467 [INFO] Start.......................................
+2022-02-15 12:59:49,485 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 13:00:43,626 [ERROR] Exception raised: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='location-field-leg1-origin-menu']/div[1]/div[1]/button"}
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 13:00:46,906 [INFO] End.........................................
+2022-02-15 14:21:10,377 [INFO] 
+
+2022-02-15 14:21:10,377 [INFO] ====== WebDriver manager ======
+2022-02-15 14:21:10,384 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 14:21:10,384 [INFO] Current chromium version is UNKNOWN
+2022-02-15 14:21:10,384 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 14:21:11,068 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 14:21:13,914 [INFO] Start.......................................
+2022-02-15 14:21:13,926 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 14:21:27,681 [ERROR] Exception raised: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='location-field-leg1-origin-menu']/div[1]/div[1]/button"}
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 14:21:30,886 [INFO] End.........................................
+2022-02-15 14:22:13,358 [INFO] 
+
+2022-02-15 14:22:13,358 [INFO] ====== WebDriver manager ======
+2022-02-15 14:22:13,364 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 14:22:13,365 [INFO] Current chromium version is UNKNOWN
+2022-02-15 14:22:13,365 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 14:22:13,681 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.80/chromedriver] found in cache
+2022-02-15 14:22:16,471 [INFO] Start.......................................
+2022-02-15 14:22:16,478 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/04_explicit_wait.py
+2022-02-15 14:22:38,204 [INFO] Successfully done.......................................
+2022-02-15 14:22:41,648 [INFO] End.........................................
+2022-02-15 21:29:49,623 [INFO] 
+
+2022-02-15 21:29:49,623 [INFO] ====== WebDriver manager ======
+2022-02-15 21:29:49,632 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 21:29:49,632 [INFO] Current chromium version is UNKNOWN
+2022-02-15 21:29:49,632 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 21:29:50,625 [INFO] There is no [mac64] chromedriver for browser  in cache
+2022-02-15 21:29:50,626 [INFO] Trying to download new driver from https://chromedriver.storage.googleapis.com/98.0.4758.102/chromedriver_mac64.zip
+2022-02-15 21:30:00,193 [INFO] Driver has been saved in cache [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.102]
+2022-02-15 21:30:03,766 [INFO] Start.......................................
+2022-02-15 21:30:03,772 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/05_input_box_test_box.py
+2022-02-15 21:30:10,063 [ERROR] Exception raised: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-15 21:30:13,182 [INFO] End.........................................
+2022-02-15 21:31:54,680 [INFO] 
+
+2022-02-15 21:31:54,680 [INFO] ====== WebDriver manager ======
+2022-02-15 21:31:54,687 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 21:31:54,687 [INFO] Current chromium version is UNKNOWN
+2022-02-15 21:31:54,687 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 21:31:55,669 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.102/chromedriver] found in cache
+2022-02-15 21:31:58,247 [INFO] Start.......................................
+2022-02-15 21:31:58,270 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/05_input_box_test_box.py
+2022-02-15 21:32:03,951 [INFO] Successfully done.......................................
+2022-02-15 21:32:07,073 [INFO] End.........................................
+2022-02-15 21:40:50,619 [INFO] 
+
+2022-02-15 21:40:50,619 [INFO] ====== WebDriver manager ======
+2022-02-15 21:40:50,626 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-15 21:40:50,626 [INFO] Current chromium version is UNKNOWN
+2022-02-15 21:40:50,626 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-15 21:40:51,136 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.102/chromedriver] found in cache
+2022-02-15 21:40:54,787 [INFO] Start.......................................
+2022-02-15 21:40:54,798 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/05_input_box_test_box.py
+2022-02-15 21:40:57,784 [INFO] Successfully done.......................................
+2022-02-15 21:41:00,901 [INFO] End.........................................
