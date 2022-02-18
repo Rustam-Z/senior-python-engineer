@@ -664,3 +664,55 @@ from unknown error: web view not found
 2022-02-15 21:40:54,798 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/05_input_box_test_box.py
 2022-02-15 21:40:57,784 [INFO] Successfully done.......................................
 2022-02-15 21:41:00,901 [INFO] End.........................................
+2022-02-16 00:14:13,619 [INFO] 
+
+2022-02-16 00:14:13,622 [INFO] ====== WebDriver manager ======
+2022-02-16 00:14:13,632 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-16 00:14:13,633 [INFO] Current chromium version is UNKNOWN
+2022-02-16 00:14:13,633 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-16 00:14:14,102 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.102/chromedriver] found in cache
+2022-02-16 00:14:17,447 [INFO] Start.......................................
+2022-02-16 00:14:17,465 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/06a.py
+2022-02-16 00:14:20,741 [ERROR] Exception raised: Message: element click intercepted: Element <input type="radio" name="RESULT_RadioButton-7" class="multiple_choice" id="RESULT_RadioButton-7_0" value="Radio-0"> is not clickable at point (401, 620). Other element would receive the click: <label for="RESULT_RadioButton-7_0">...</label>
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-16 00:14:23,856 [INFO] End.........................................
+2022-02-16 00:15:40,603 [INFO] 
+
+2022-02-16 00:15:40,603 [INFO] ====== WebDriver manager ======
+2022-02-16 00:15:40,610 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-16 00:15:40,610 [INFO] Current chromium version is UNKNOWN
+2022-02-16 00:15:40,610 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-16 00:15:40,974 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.102/chromedriver] found in cache
+2022-02-16 00:15:43,485 [INFO] Start.......................................
+2022-02-16 00:15:43,497 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/06a.py
+2022-02-16 00:15:45,377 [ERROR] Exception raised: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="//*[@id='q26']/table/tbody/tr[2]/td/label"]"}
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-16 00:15:48,474 [INFO] End.........................................
+2022-02-16 00:38:47,640 [INFO] 
+
+2022-02-16 00:38:47,641 [INFO] ====== WebDriver manager ======
+2022-02-16 00:38:47,648 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-16 00:38:47,649 [INFO] Current chromium version is UNKNOWN
+2022-02-16 00:38:47,649 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-16 00:38:49,060 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.102/chromedriver] found in cache
+2022-02-16 00:38:51,540 [INFO] Start.......................................
+2022-02-16 00:38:51,543 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/06a.py
+2022-02-16 00:39:12,527 [ERROR] Exception raised: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="//*[@id='q15']/table/tbody/tr[1]/td/label"]"}
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-16 00:39:15,686 [INFO] End.........................................
+2022-02-16 00:40:22,744 [INFO] 
+
+2022-02-16 00:40:22,744 [INFO] ====== WebDriver manager ======
+2022-02-16 00:40:22,751 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-16 00:40:22,751 [INFO] Current chromium version is UNKNOWN
+2022-02-16 00:40:22,752 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-16 00:40:24,919 [INFO] Driver [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.102/chromedriver] found in cache
+2022-02-16 00:40:27,471 [INFO] Start.......................................
+2022-02-16 00:40:27,476 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/06a.py
+2022-02-16 00:40:46,992 [ERROR] Exception raised: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=98.0.4758.80)
+
+2022-02-16 00:40:50,114 [INFO] End.........................................

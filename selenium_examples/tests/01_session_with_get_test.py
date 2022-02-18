@@ -14,7 +14,12 @@ def driver():
     driver = webdriver.Chrome(executable_path=config.CHROME_DRIVER_PATH)  # ChromeDriverManager().install()
     driver.implicitly_wait(10)
     driver.maximize_window()
+    print("Driver window size: {}".format(driver.get_window_size()))  # {'height': 1366, 'width': 768}
+    print("Driver window position: {}".format(driver.get_window_position()))  # {'x': 0, 'y': 0}
+    print("Driver window rect: {}".format(driver.get_window_rect()))  # {'height': 1366, 'width': 768, 'x': 0, 'y': 0}
+
     yield driver
+
     driver.close()
     driver.quit()  # close the browser window, close() is also available, close only window
     print("\n\nClosing the driver...")
