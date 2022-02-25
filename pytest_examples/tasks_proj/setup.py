@@ -4,8 +4,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='tasks',
-    version='0.1.0',
-    license='proprietary',
+    version='0.1.1',
+    license='proprietary', 
     description='Minimal Project Task Management',
 
     author='Brian Okken',
@@ -15,7 +15,8 @@ setup(
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
 
-    install_requires=['click==7.1.2', 'tinydb==3.15.1', 'six'],
+    install_requires=['click==7.1.2', 'tinydb==3.15.1', 'six', 'pytest', 'pytest-mock'],
+    tests_require=['pytest', 'pytest-mock'],
     extras_require={'mongo': 'pymongo'},
 
     entry_points={

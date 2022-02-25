@@ -9,9 +9,10 @@ from tasks.api import Task
 
 # The main entry point for tasks.
 @click.group(context_settings={'help_option_names': ['-h', '--help']})
-@click.version_option(version='0.1.0')
+@click.version_option(version='0.1.1')
 def tasks_cli():
     """Run the tasks application."""
+    pass
 
 
 @tasks_cli.command(help="add a task")

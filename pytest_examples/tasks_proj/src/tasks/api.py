@@ -5,7 +5,8 @@ from six import string_types
 
 
 # Task element types : [summary: str, owner: str, done: bool, id: int]
-Task = namedtuple('Task', ['summary', 'owner', 'done', 'id'], defaults=(None, None, False, None))
+Task = namedtuple('Task', ['summary', 'owner', 'done', 'id'])
+Task.__new__.__defaults__ = (None, None, False, None)
 
 
 # custom exceptions
@@ -26,11 +27,8 @@ def add(task):  # type: (Task) -> int
     if not ((task.owner is None) or
             isinstance(task.owner, string_types)):
         raise ValueError('task.owner must be string or None)')
-    # We test for this in ch5, so keep this commented out to let
-    # the ch5 test fail.
-    #
-    # if not isinstance(task.done, bool):
-    #     raise ValueError('task.done must be True or False')
+    if not isinstance(task.done, bool):
+        raise ValueError('task.done must be True or False')
     if task.id is not None:
         raise ValueError('task.id must None')
     if _tasksdb is None:
@@ -49,7 +47,7 @@ def get(task_id):  # type: (int) -> Task
     return Task(**task_dict)
 
 
-def list_tasks(owner=None):  # type (str|None) -> list of Task
+def list_tasks(owner=None):  # type: (str|None) -> list of Task
     """Return a list of Task objects."""
     if owner and not isinstance(owner, string_types):
         raise TypeError('owner must be a string')

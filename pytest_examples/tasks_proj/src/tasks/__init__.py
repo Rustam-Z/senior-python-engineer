@@ -15,4 +15,4 @@ from .api import (  # noqa: F401
     stop_tasks_db
 )
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'

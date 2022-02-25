@@ -716,3 +716,15 @@ from unknown error: web view not found
   (Session info: chrome=98.0.4758.80)
 
 2022-02-16 00:40:50,114 [INFO] End.........................................
+2022-02-22 14:58:16,593 [INFO] 
+
+2022-02-22 14:58:16,596 [INFO] ====== WebDriver manager ======
+2022-02-22 14:58:16,615 [INFO] Could not get version for chromium with the any command: /Applications/Chromium.app/Contents/MacOS/Chromium --version
+2022-02-22 14:58:16,616 [INFO] Current chromium version is UNKNOWN
+2022-02-22 14:58:16,616 [INFO] Get LATEST chromedriver version for UNKNOWN chromium
+2022-02-22 14:58:17,048 [INFO] Trying to download new driver from https://chromedriver.storage.googleapis.com/98.0.4758.102/chromedriver_mac64.zip
+2022-02-22 14:58:22,918 [INFO] Driver has been saved in cache [/Users/Rustam_Zokirov/.wdm/drivers/chromedriver/mac64/98.0.4758.102]
+2022-02-22 14:58:25,930 [INFO] Start.......................................
+2022-02-22 14:58:25,933 [INFO] Test file name: /Users/Rustam_Zokirov/SWE/AdvancedPython/selenium_examples/tests/05_input_box_test_box.py
+2022-02-22 14:58:28,337 [INFO] Successfully done.......................................
+2022-02-22 14:58:31,465 [INFO] End.........................................
