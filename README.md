@@ -2,8 +2,8 @@
 
 - Advanced Python.Core and Python.OOP
 - Parallel programming and concurrency
-- Design Patterns
-- SOLID
 - Pytest
 - Selenium
-- AWS - boto3
+- Design Patterns
+- SOLID
+- AWS Boto3
