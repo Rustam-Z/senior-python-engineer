@@ -1,4 +1,3 @@
-
 def make_adder(x):
     def add(n):
         return x + n

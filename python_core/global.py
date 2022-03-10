@@ -14,5 +14,6 @@ def outer():
 
     f()
 
+
 outer()
 print(x)

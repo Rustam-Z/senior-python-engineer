@@ -1,5 +1,0 @@
-include LICENSE
-
-# Tests
-recursive-include tests *.py
-

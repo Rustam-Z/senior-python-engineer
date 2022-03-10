@@ -6,6 +6,7 @@ How to run: python argparse_example.py --name Rustam --age 20 100 200 --values 1
 3. --age is an optional argument
 4. Multiple Input Arguments
 5. Mutually Exclusive Arguments, depending on one argument, you want to restrict the use of another.
+6. Subparser
 
 https://towardsdatascience.com/a-simple-guide-to-command-line-arguments-with-argparse-6824c30ab1c3
 """

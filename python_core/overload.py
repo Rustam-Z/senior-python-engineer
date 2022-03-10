@@ -21,7 +21,7 @@ func(1)
 # func(None)
 
 
-################
+# Second example
 
 from multipledispatch import dispatch
 

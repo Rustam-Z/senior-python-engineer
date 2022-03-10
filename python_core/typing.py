@@ -4,4 +4,3 @@ def only_str(value: str) -> str:
 
 a = only_str(2)
 print(a)
-

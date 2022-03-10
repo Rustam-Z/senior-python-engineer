@@ -1,1 +1,0 @@
-CHROME_DRIVER_PATH = '/Users/Rustam_Zokirov/SWE/bin/chromedriver'
