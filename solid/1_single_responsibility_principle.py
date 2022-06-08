@@ -15,10 +15,14 @@ So, we should split the class into 3 classes:
 - A class that includes business logic
 """
 from dataclasses import dataclass
+from typing import List
 
 
 @dataclass
 class Animal:
+    """
+    Entity class.
+    """
     name: str
     age: int
     category: str
@@ -34,11 +38,49 @@ class Animal:
         self._category = value
 
 
+class AnimalRepository:
+    """
+    DAO - Data Access Object.
+    Responsible for storing data into database.
+    It is good to make it interface, and inherit PROD and TEST classes from it.
+    """
+
+    def __init__(self, database: DjangoOrm):
+        self.database = database
+
+    def save(self, animal: Animal):
+        pass
+
+    def get(self, name):
+        pass
+
+    def delete(self, name):
+        pass
+
+    def update(self, animal):
+        pass
+
+
+class AnimalBusinessLogic:
+    """
+    DTO - Data Transfer Object.
+    BusinessLogic - responsible for business logic.
+    """
+
+    def __init__(self, animal_repository: AnimalRepository):
+        self.animal_repository = animal_repository
+
+    def get_animals_by_age(self) -> List[Animal]:
+        pass
+
+    def get_average_age_by_category(self, category: str) -> List[Animal]:
+        pass
+
+
 if __name__ == "__main__":
-    # Create an animal
-    animal = Animal(name="Bobik", age=5, category='mammal')
-    print(animal)
-
-
-
-
+    orm = DjangoOrm().connect()  # It should be singleton because many repositories will use the same database.
+    animal_repository = AnimalRepository(orm)
+    animal_business_logic = AnimalBusinessLogic(animal_repository)
+    animal = Animal(name="Bobik", age=5, category='mammal')  # Create an animal.
+    animal_repository.save(animal)  # Save it into database.
+    animals_list = animal_business_logic.get_animals_by_age()  # Get all animals by age.
