@@ -7,8 +7,8 @@ By Rustam-Z 🚀 | 31 May 2022
 - SOLID Principles
 - Design Patterns
 - Parallel programming and concurrency
-- Fancy Python data types: [dataclasses](https://realpython.com/python-data-classes/), `collections`, `typing`
+- [Fancy data types](data_structures): `dataclasses`, `collections`, `typing`
 - argparse
-- PyTest
-- Selenium
-- AWS Boto3
+- Testing: PyTest, unittest
+- Web UI Automation: Selenium
+- Cloud SDK: WS Boto3
