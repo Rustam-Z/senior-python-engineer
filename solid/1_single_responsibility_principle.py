@@ -18,6 +18,15 @@ from dataclasses import dataclass
 from typing import List
 
 
+class DjangoOrm:
+    """This is the singleton class used to create a connection with DB."""
+    def __init__(self, db_path: str):
+        self.db_path = db_path
+
+    def connect(self):
+        return Connection()
+
+
 @dataclass
 class Animal:
     """
@@ -32,7 +41,7 @@ class Animal:
         return self._category
 
     @category.setter
-    def category(self, value):
+    def category(self, value: str) -> None:
         if value not in ['mammal', 'bird', 'reptile']:
             raise ValueError('Invalid category')
         self._category = value
@@ -48,17 +57,20 @@ class AnimalRepository:
     def __init__(self, database: DjangoOrm):
         self.database = database
 
-    def save(self, animal: Animal):
-        pass
+    def save(self, animal: Animal) -> bool:
+        """If save is successful, save() returns True, else False."""
+        ...
 
-    def get(self, name):
-        pass
+    def get(self, name: str) -> Animal:
+        ...
 
-    def delete(self, name):
-        pass
+    def delete(self, name: str) -> bool:
+        """If delete is successful, save() returns True, else False."""
+        ...
 
-    def update(self, animal):
-        pass
+    def update(self, animal: Animal) -> bool:
+        """If update is successful, save() returns True, else False."""
+        ...
 
 
 class AnimalBusinessLogic:
@@ -71,14 +83,14 @@ class AnimalBusinessLogic:
         self.animal_repository = animal_repository
 
     def get_animals_by_age(self) -> List[Animal]:
-        pass
+        ...
 
     def get_average_age_by_category(self, category: str) -> List[Animal]:
-        pass
+        ...
 
 
 if __name__ == "__main__":
-    orm = DjangoOrm().connect()  # It should be singleton because many repositories will use the same database.
+    orm = DjangoOrm("the_path_to_db").connect()  # It should be singleton because many repositories will use the same database.
     animal_repository = AnimalRepository(orm)
     animal_business_logic = AnimalBusinessLogic(animal_repository)
     animal = Animal(name="Bobik", age=5, category='mammal')  # Create an animal.
