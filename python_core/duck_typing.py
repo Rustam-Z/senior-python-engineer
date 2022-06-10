@@ -2,7 +2,7 @@
 Duck typing in Python.
 
 Using Duck Typing, we do not check types at all.
-Instead, we check for the presence of a given method or attribute
+Instead, we check for the presence of a given method or attribute.
 """
 
 
