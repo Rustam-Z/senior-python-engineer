@@ -11,7 +11,7 @@ print(func.__dict__)
 print(func)
 
 
-# Exqmple 2
+# Example 2
 class Point:
     __slots__ = "x", "y"  # Restricting number of attributes, and making memory consumption faster, compared to __dict__
 

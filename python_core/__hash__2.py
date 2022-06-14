@@ -14,10 +14,11 @@ class Person:
         return hash(self.age)
 
 
-members = {
-    Person('John', 22),
-    Person('Jane', 22)
-}
-
-
+if __name__ == '__main__':
+    members = {
+        Person('John', 22),
+        Person('Jane', 22)
+    }
+    print(type(members))  # set
+    print(members)  # Only 1 object because in eq() we compare ages only
 

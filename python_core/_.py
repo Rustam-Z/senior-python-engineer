@@ -4,8 +4,7 @@ class Test:
         self._bar = 2
 
 
-t = Test()
-t._bar = 43
-
-print(t.__dict__)
-
+if __name__ == "__main__":
+    t = Test()
+    t._bar = 43
+    print(t.__dict__)

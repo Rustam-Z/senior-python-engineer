@@ -3,6 +3,6 @@ class Event(list):
         print("Event created...")
 
 
-e = Event()
-
-e()
+if __name__ == "__main__":
+    e = Event()
+    e()

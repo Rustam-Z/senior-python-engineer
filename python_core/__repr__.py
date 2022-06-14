@@ -3,13 +3,15 @@ class Test:
         self.data = data
 
     def __repr__(self):
-        return "Repr " + str(self.data)
+        return f"Test({self.data})"
 
     def __str__(self):
-        return "Str " + str(self.data)
+        return "Test class with data = " + str(self.data)
 
 
-test_object = Test(1)
+if __name__ == '__main__':
+    test_object = Test(1)
 
-print(repr(test_object))
-print(str(test_object))
+    print(repr(test_object))
+    print(str(test_object))
+    print(test_object)

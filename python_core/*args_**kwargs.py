@@ -7,5 +7,6 @@ def foo(required, *args, **kwargs):
     print("\n")
 
 
-foo('hello')
-foo("hello", 1, 2, 3, key1='value', key2=999)
+if __name__ == "__main__":
+    foo('hello')
+    foo("hello", 1, 2, 3, key1='value', key2=999)

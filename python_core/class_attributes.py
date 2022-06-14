@@ -1,4 +1,4 @@
-class Goal():
+class Goal:
     text = "text"
     date = "data"
     complete = False
@@ -7,10 +7,10 @@ class Goal():
         self.complete = True
 
 
-a = Goal()
-a.set_complete_true()
-print(a.complete)  # should be true now, only for object a
+if __name__ == '__main__':
+    a = Goal()
+    a.set_complete_true()
+    print(a.complete)  # should be true now, only for object a, because we use instance attribute
 
-a2 = Goal()
-print(a2.complete)
-
+    a2 = Goal()
+    print(a2.complete)

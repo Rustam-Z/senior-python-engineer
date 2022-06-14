@@ -13,14 +13,12 @@ class Person:
         self._name = value
 
 
-person1 = Person("Rustam")
+if __name__ == "__main__":
+    person1 = Person("Rustam")
+    print(person1.name)
 
-print(person1.name)
+    person1.name = "Rustam-Z"
+    print(person1.name)
 
-person1.name = "Rustam-Z"
-
-print(person1.name)
-
-person1.name = 2
-
-print(person1.name)
+    person1.name = 2
+    print(person1.name)

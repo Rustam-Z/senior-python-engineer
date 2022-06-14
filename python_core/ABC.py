@@ -1,7 +1,4 @@
-from abc import (
-    ABC,
-    abstractmethod,
-)
+from abc import ABC, abstractmethod
 from collections import namedtuple
 
 
@@ -14,11 +11,8 @@ class BasicPokemon(ABC):
     def main_attack(self):
         ...
 
-    def test(self):
+    def test_no_need_to_implement_non_abstract_method(self):
         ...
-
-
-Attack = namedtuple('Attack', ('name', 'damage'))
 
 
 class Pikachu(BasicPokemon):
@@ -31,5 +25,7 @@ class Charmander(BasicPokemon):
         return Attack('Flame Thrower', 5)
 
 
-p1 = Pikachu("Name")
-print(p1.main_attack())
+if __name__ == '__main__':
+    Attack = namedtuple('Attack', ('name', 'damage'))  # It is allowed because Python is interpreted language
+    p1 = Pikachu("Name")
+    print(p1.main_attack())

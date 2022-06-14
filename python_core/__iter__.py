@@ -1,9 +1,9 @@
 class PrintNumber:
     def __init__(self, max):
+        self.num = 0
         self.max = max
 
     def __iter__(self):
-        self.num = 0
         return self
 
     def __next__(self):
@@ -13,12 +13,11 @@ class PrintNumber:
         return self.num
 
 
-print_num = PrintNumber(3)
+if __name__ == '__main__':
+    print_num = PrintNumber(3)
+    print_num_iter = iter(print_num)
 
-print_num_iter = iter(print_num)
-print(next(print_num_iter))  # 1
-print(next(print_num_iter))  # 2
-print(next(print_num_iter))  # 3
-
-# raises StopIteration
-print(next(print_num_iter))
+    print(next(print_num_iter))  # 1
+    print(next(print_num_iter))  # 2
+    print(next(print_num_iter))  # 3
+    print(next(print_num_iter))  # raises StopIteration
