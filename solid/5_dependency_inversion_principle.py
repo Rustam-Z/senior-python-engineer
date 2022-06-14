@@ -4,6 +4,9 @@ Dependency Inversion Principle
 - Abstractions should not depend on details. Details should depend on abstractions.
 
 Use the dependency inversion principle to make your code more robust by making the high-level module dependent on the abstraction, not the concrete implementation.
+
+Dependency Injection is an implementation technique for populating instance variables of a class.
+Dependency Inversion is a general design guideline which recommends that classes should only have direct relationships with high-level abstractions.
 """
 
 
