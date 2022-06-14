@@ -1,7 +1,9 @@
 """
 Open Closed Principle
 - Software entities (classes, modules, functions) should be open for extension, but closed for modification.
+- Don't check for object type, don't use if/else, but use Polymorphism instead.
 
+https://www.youtube.com/watch?v=aWAmScEixoE
 https://www.pythontutorial.net/python-oop/python-open-closed-principle/
 https://github.com/heykarimoff/solid.python/blob/master/2.ocp.py
 
@@ -45,6 +47,7 @@ def get_animal(name: str) -> Animal:
     return animals[name]
 
 
+# It is the function where show how to use OCP
 def animal_sound(animal: Animal):
     return animal.make_sound()
 
