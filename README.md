@@ -8,32 +8,47 @@ By Rustam-Z 🚀 | 31 May 2022
 - Design Patterns
 - Parallel programming and concurrency
 - [Fancy data types](data_structures): `dataclasses`, `collections`, `typing`
-- argparse
+- Must know libraries: `argparse`, `pathlib`, `os`, `sys`, `requests`, `itertools`, `json`, `yaml`, `csv`
 - Testing: PyTest, unittest
 - Web UI Automation: Selenium
-- Cloud SDK: WS Boto3
+- Cloud SDK: AWS Boto3
 
 
-## Python.Core - Tips & Tricks
-- [Python course EPAM](https://kb.epam.com/display/RD/Python+TA+MEP#)
+## Python Resources
+- [EPAM: Python TA course](https://kb.epam.com/display/RD/Python+TA+MEP#)
+- [LinkedIn: Advanced Python](https://www.linkedin.com/learning/advanced-python)
 - [Python clean code](https://github.com/zedr/clean-code-python)
 - [LinkedIn course: Clean coding practices](https://www.linkedin.com/learning/agile-software-development-clean-coding-practices)
-- https://towardsdatascience.com/8-tips-for-object-oriented-programming-in-python-3e98b767ae79
-- https://realpython.com/tutorials/best-practices/
+- [OOP 8 tips](https://towardsdatascience.com/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)
+- [realpython.com](https://realpython.com/tutorials/best-practices/)
+- [Python Design Patterns](https://python-patterns.guide)
+- https://medium.com/techtofreedom/python/home
 - https://www.pythontutorial.net/python-oop/
 - https://www.thedigitalcatonline.com/index.html
-- https://www.pythontutorial.net/python-oop/
 - https://dabeaz-course.github.io/practical-python/Notes/Contents.html
-- https://youtube.com/user/zaemiel 
-- https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku
-- https://medium.com/techtofreedom/python/home
 - https://docs.python-guide.org/
 - https://book.pythontips.com/en/latest/
-- https://www.youtube.com/c/mCodingWithJamesMurphy
-- https://www.youtube.com/c/IndianPythonista/playlists 
-- https://python-patterns.guide
+- YouTube:
+  - https://www.youtube.com/c/mCodingWithJamesMurphy
+  - https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku
+  - https://youtube.com/user/zaemiel
+  - https://www.youtube.com/c/IndianPythonista/playlists
 
-## Engineering excellence
-- EngX: https://elearn.epam.com/courses/course-v1:EPAM+EngX_B+0921/course/
-- Clean Code: https://elearn.epam.com/courses/course-v1:EPAM+CC2.0+04_21/course/
-- Clean design: https://elearn.epam.com/courses/course-v1:EPAM+ECDJ+2021_EngX_CD/course/
+## Books
+- "Python Tricks"
+- "Python Cookbook"
+- "Clean Python"
+- "Practices of the Python Pro"
+- "Effective Python"
+- "Python Workout"
+- "Fluent Python"
+- "Learning Python"
+- "Advanced Guide to Python 3"
+- "Mastering Object-Oriented Python"
+- "Python testing with PyTest"
+- "Python testing with Selenium"
+
+## EngX
+- [EngX](https://elearn.epam.com/courses/course-v1:EPAM+EngX_B+0921/course/)
+- [Clean Code](https://elearn.epam.com/courses/course-v1:EPAM+CC2.0+04_21/course/)
+- [Clean Design](https://elearn.epam.com/courses/course-v1:EPAM+ECDJ+2021_EngX_CD/course/)
