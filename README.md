@@ -8,7 +8,7 @@ By Rustam-Z 🚀 | 31 May 2022
 - Design Patterns
 - Parallel programming and concurrency
 - [Fancy data types](data_structures): `dataclasses`, `collections`, `typing`
-- Must know libraries: `argparse`, `pathlib`, `os`, `sys`, `requests`, `itertools`, `json`, `yaml`, `csv`
+- Must know libraries: `logging`, `argparse`, `pathlib`, `os`, `sys`, `requests`, `itertools`, `json`, `yaml`, `csv`
 - Testing: PyTest, unittest
 - Web UI Automation: Selenium
 - Cloud SDK: AWS Boto3
@@ -17,7 +17,7 @@ By Rustam-Z 🚀 | 31 May 2022
 ## Python Resources
 - [EPAM: Python TA course](https://kb.epam.com/display/RD/Python+TA+MEP#)
 - [LinkedIn: Advanced Python](https://www.linkedin.com/learning/advanced-python)
-- [Python clean code](https://github.com/zedr/clean-code-python)
+- [Python clean code](https://github.com/zedr/clean-code-python), [testdriven.io: Clean code in Python](https://testdriven.io/blog/clean-code-python/)
 - [LinkedIn course: Clean coding practices](https://www.linkedin.com/learning/agile-software-development-clean-coding-practices)
 - [OOP 8 tips](https://towardsdatascience.com/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)
 - [realpython.com](https://realpython.com/tutorials/best-practices/)

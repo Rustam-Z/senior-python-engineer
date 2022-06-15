@@ -1,0 +1,8 @@
+2022-06-15 22:33:57,913 [INFO] This is an info-level log message
+2022-06-15 22:33:57,913 [WARNING] This is a warning-level message
+2022-06-15 22:33:57,913 [ERROR] This is an error-level message
+2022-06-15 22:33:57,914 [CRITICAL] This is a critical-level message
+2022-06-15 22:33:57,914 [INFO] Here's a string variable and an int: 10
+06/15/2022 10:39:14 PM: INFO: main Line:22 User:joem@example.com This is an info-level log message
+06/15/2022 10:39:14 PM: WARNING: main Line:23 User:joem@example.com This is a warning-level message
+06/15/2022 10:39:14 PM: DEBUG: anotherFunction Line:9 User:joem@example.com This is a debug-level log message
