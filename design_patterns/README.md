@@ -24,6 +24,11 @@
     - [Strategy](strategy/strategy.py), we have a default method, we can change its behaviour with another function at a run time.
     - [Chain of responsibility](chain_of_responsibility/chain_of_responsibility.py), 
 
-## More:
-- https://www.geeksforgeeks.org/python-design-patterns/
-- https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html
+## Resources
+- https://www.linkedin.com/learning/python-design-patterns/welcome?u=2113185
+- https://github.com/faif/python-patterns
+- https://www.tutorialspoint.com/python_design_patterns/index.htm
+- https://www.youtube.com/watch?v=4KZx8bATBFs
+- https://python-patterns.guide
+- https://www.toptal.com/python/python-design-patterns
+- https://jellyfish.tech/implementation-of-common-design-patterns-in-python/
