@@ -1,10 +1,9 @@
 """
 Interface Segregation Principle
-- Make fine-grained interfaces that are client-specific.
- Clients should not be forced to implement interfaces they do not use.
-- The interface segregation principle states that an interface should be as small a possible in terms of cohesion.
-In other words, it should do ONE thing.
-- In OOP, an interface is a set of methods an object must-have.
+
+- A client should depend on the smallest set of interface features: the fewest methods and attributes.
+- Make fine-grained interfaces that are client-specific. Clients should not be forced to implement interfaces they do not use.
+- In OOP, an interface is a set of methods an object MUST have.
 """
 from abc import ABC, abstractmethod
 
