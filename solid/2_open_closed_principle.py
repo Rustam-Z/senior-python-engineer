@@ -42,7 +42,7 @@ class Snake(Animal):
 
 
 def get_animal(name: str) -> Animal:
-    """The factory method"""
+    """The c_factory method"""
     animals = dict(dog=Lion("Asad"), cat=Mouse("Nizo"), snake=Snake("Rust"))
     return animals[name]
 

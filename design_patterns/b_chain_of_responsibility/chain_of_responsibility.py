@@ -1,5 +1,5 @@
 """
-The chain of responsibility pattern opens up various possibilities of processing for a given request.
+Allows a request to pass down a chain of receivers until it is handled.
 
 Composite related to chain of responsibility.
 """
@@ -51,11 +51,12 @@ class Client:  # Using handlers
             self.handler.handle(request)
 
 
-# Create a client
-c = Client()
+if __name__ == "__main__":
+    # Create a client
+    c = Client()
 
-# Create requests
-requests = [2, 5, 30]
+    # Create requests
+    requests = [2, 5, 30]
 
-# Send the requests
-c.delegate(requests)
+    # Send the requests
+    c.delegate(requests)

@@ -19,7 +19,7 @@ from typing import List
 
 
 class DjangoOrm:
-    """This is the singleton class used to create a connection with DB."""
+    """This is the c_singleton class used to create a connection with DB."""
     def __init__(self, db_path: str):
         self.db_path = db_path
 
@@ -90,7 +90,7 @@ class AnimalBusinessLogic:
 
 
 if __name__ == "__main__":
-    orm = DjangoOrm("the_path_to_db").connect()  # It should be singleton because many repositories will use the same database.
+    orm = DjangoOrm("the_path_to_db").connect()  # It should be c_singleton because many repositories will use the same database.
     animal_repository = AnimalRepository(orm)
     animal_business_logic = AnimalBusinessLogic(animal_repository)
     animal = Animal(name="Bobik", age=5, category='mammal')  # Create an animal.

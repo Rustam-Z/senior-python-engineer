@@ -8,7 +8,7 @@ def example_function(x):
 
 
 def main():
-    # cycle iterator can be used to cycle over a collection
+    # cycle b_iterator can be used to cycle over a collection
     seq1 = ["Joe", "John", "Mike"]
     cycle1 = itertools.cycle(seq1)
     print(next(cycle1))  # Joe
@@ -22,7 +22,7 @@ def main():
     print(next(count1))  # 110
     print(next(count1))  # 120
 
-    # accumulate creates an iterator that accumulates values
+    # accumulate creates an b_iterator that accumulates values
     vals = [10, 20, 30, 40, 50, 40, 30]
     acc = itertools.accumulate(vals, max)
     print(list(acc))  # [10, 20, 30, 40, 50, 50, 50]

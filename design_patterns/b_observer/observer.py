@@ -1,15 +1,15 @@
 """
 Observer Pattern - one subject monitored by many observers.
 One-to-many relationship between objects such as if one object is modified, its dependent objects are to be notified automatically.
-Elon-Musk profile in Twitter is Subject, his 65M followers are observers.
+
+Example: Elon-Musk profile in Twitter is Subject, his 65M followers are observers.
 
 Problem:
 - Subject to be monitored
 - Observers to be notified
 
 Scenario:
-- Core temperature - reactors at a powerplant.
-
+- Core temperature - reactors at a power plant.
 
 Solution:
 - Subject - abstract classes

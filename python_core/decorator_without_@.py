@@ -12,7 +12,7 @@ hello = decorator(hello)
 print(hello)
 
 
-# Example 2: Creating simple decorator
+# Example 2: Creating simple s_decorator
 def my_decorator(func):
     def wrapper():
         print("Something is happening before the function is called.")

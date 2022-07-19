@@ -1,4 +1,4 @@
-# use iterator functions like enumerate, zip, iter, next
+# use b_iterator functions like enumerate, zip, iter, next
 
 
 def main():
@@ -6,7 +6,7 @@ def main():
     days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
     days_fr = ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"]
 
-    # use iter to create an iterator over a collection
+    # use iter to create an b_iterator over a collection
     i = iter(days)
     print(next(i))  # Sun
     print(next(i))  # Mon
