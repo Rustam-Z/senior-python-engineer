@@ -1,22 +1,29 @@
-import concurrent.futures
-import time
+# time python3 test.py
 
-start = time.perf_counter()
+import random
+import multiprocessing
 
-
-def do_something(seconds):
-    print(f'Sleeping {seconds} second(s)...')
-    time.sleep(seconds)
-    return f'Done Sleeping...{seconds}'
+NUM_PROC = 2
 
 
-with concurrent.futures.ProcessPoolExecutor() as executor:
-    secs = [5, 4, 3, 2, 1]
-    results = executor.map(do_something, secs)
+def append_to_list(lst, num_items):
+    """Appends num_items integers within the range [0-20000000) to the input lst"""
+    for n in random.sample(range(20000000), num_items):
+        lst.append(n)
 
-    # for result in results:
-    #     print(result)
 
-finish = time.perf_counter()
+if __name__ == "__main__":
+    jobs = []
 
-print(f'Finished in {round(finish-start, 2)} second(s)')
+    for i in range(NUM_PROC):
+        process = multiprocessing.Process(
+            target=append_to_list,
+            args=([], 10000000)
+        )
+        jobs.append(process)
+
+    for j in jobs:
+        j.start()
+
+    for j in jobs:
+        j.join()
