@@ -33,6 +33,7 @@
    - [Observer](b_observer/observer.py), lets subscribed entities know about changes in an observable. Ex: Elon & Twitter.
    - [Strategy](b_strategy/strategy.py), enables our application to select algorithms (method) at runtime.
    - [Visitor](b_visitor/visitor.py), adds new features to an existing hierarchy without changing its structure. Ex: electricity, hvac.
+   - [Mediator](b_mediator/mediator.py), objects in a system communicate through a Mediator instead of directly with each other.
    - [Chain of responsibility](b_chain_of_responsibility/chain_of_responsibility.py), allows a request to pass down a chain of receivers until it is handled.
 
 
