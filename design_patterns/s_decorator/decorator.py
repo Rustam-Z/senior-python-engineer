@@ -1,5 +1,8 @@
 """
-Decorator Pattern - allows users to add new features to existing objects without changing their structure.
+Decorator attaches new behaviors to the objects without modifying their structure.
+
++ Changes the object behavior without creating a subclass.
++ You can combine several behaviors by wrapping an object into multiple decorators.
 
 Problem:
 - Add new feature to an existing object

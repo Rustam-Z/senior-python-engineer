@@ -4,8 +4,6 @@ Factory Pattern is useful when you are not sure which types of objects you need 
 
 
 class Dog:
-    """A simple dog class"""
-
     def __init__(self, name):
         self._name = name
 
@@ -14,8 +12,6 @@ class Dog:
 
 
 class Cat:
-    """A simple cat class"""
-
     def __init__(self, name):
         self._name = name
 
@@ -25,16 +21,11 @@ class Cat:
 
 def get_pet(pet="dog"):
     """The factory method"""
-
     pets = dict(dog=Dog("Hope"), cat=Cat("Peace"))
-
     return pets[pet]
 
 
 if __name__ == "__main__":
-
-    # print(factory.__name__)
-
     d = get_pet("dog")
     print(d.speak())
 

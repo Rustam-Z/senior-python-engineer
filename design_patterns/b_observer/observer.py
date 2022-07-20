@@ -18,6 +18,9 @@ Solution:
     Notify
 - Concrete subjects(Subject)
 
++ You haven’t to change the publisher’s code to add subscribers’ classes.
+- Subscribers get notifications in random order.
+
 Singleton related to Observer
 """
 

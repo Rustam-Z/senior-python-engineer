@@ -3,7 +3,7 @@
 ### Types of design patterns
 - Creational - designed for object creation to increase flexibility and reuse of existing code. Polymorphism is used.
 - Structural - establishes relationship between classes making larger structures. Inheritance is used.
-- Behavioral - effective communications and interactions between objects. Methods are used.
+- Behavioral - effective communications and interactions between objects/classes. Methods are used.
 
 ### Using common design patterns, you can:
 - Speed up the development process;
@@ -13,28 +13,26 @@
 
 ## Notes
 1. Creational
-   - [Factory](c_factory/factory.py), factory method is a single method.
-   - [Factory abstract](c_factory/abstact_factory.py), an abstract factory is an object.
-   - [Singleton](c_singleton/singleton.py), object creating from class, global variable in an object-oriented way. Borg. Sharing info by multiple objects.
+   - [Singleton](c_singleton/singleton.py), restricts a class from having more than one instance and ensures a global access point to this instance.
+   - [Borg](c_singleton/borg.py), allows all instances of one class share common data.
+   - [Factory](c_factory/factory.py), the object helps to create other objects.
+   - [Factory abstract](c_factory/abstact_factory.py), like factory but abstract factory is an object.
    - [Builder](c_builder/builder.py), separating class from building complex object.
    - [Prototype](c_prototype/prototype.py), clones object.
-2. Structural
-   - [Decorator](s_decorator/decorator.py), adds new features to existing objects without changing their structures,
-   - [Proxy](s_proxy/proxy.py), becomes handy when creating resource-intensive objects.
-   - [Adapter](s_adapter/adapter.py), converting the interface of a class into another one that a client is expecting.
-     - Making the incompatible objects adaptable to each other.
+   - [Pool](c_pool/pool.py), like flyweight but for mutable objects
+3. Structural
+   - [Facade](s_facade/facade.py), hides the complexity of implementations. New API on top of other APIs.
+   - [Decorator](s_decorator/decorator.py), attaches new behaviors to the objects without modifying their structure.
+   - [Adapter](s_adapter/adapter.py), makes incompatible objects adaptable to each other. Ex: `speak=english.hello(), speak=korean.anyong()`
+   - [Bridge](s_bridge/bridge.py), separates the implementation from the API. Ex: DrawingAPIOne, DrawingAPITwo
+   - [Proxy](s_proxy/proxy.py), like decorator, adds functionality to a class without  changing its interface.
    - [Composite](s_composite/composite.py), describes a group of objects the same way as a single instance, with Tree data structure.
-   - [Bridge](s_bridge/bridge.py), separate the Implementation Specific Abstractions and Implementation Independent Abstractions.
-     - Adapter vs bridge? 
-     - Adapter is used to map that interface to another object which has similar functional role, but a different interface.
-     - You have designed all your classes, Bridge is used when you need to be able to swap out different implementations.
-     - It is also similar to Abstract Factory pattern. In Bridge, abstraction and implementation will vary independently. But in abstract factory, if you change abstraction ( interface), you have to change client.
-   - Facade, flyweight
-3. Behavioural
+   - [Flyweight](s_flyweight/flyweight.py), reuses existing instances of objects with similar/identical state.
+4. Behavioural
    - [Iterator](b_iterator/iterator.py), helps to iterate through the elements of collection.
    - [Observer](b_observer/observer.py), lets subscribed entities know about changes in an observable. Ex: Elon & Twitter.
    - [Strategy](b_strategy/strategy.py), enables our application to select algorithms (method) at runtime.
-   - [Visitor](b_visitor/visitor.py), new features to an existing hierarchy without changing its structure. Ex: electricity, hvac.
+   - [Visitor](b_visitor/visitor.py), adds new features to an existing hierarchy without changing its structure. Ex: electricity, hvac.
    - [Chain of responsibility](b_chain_of_responsibility/chain_of_responsibility.py), allows a request to pass down a chain of receivers until it is handled.
 
 

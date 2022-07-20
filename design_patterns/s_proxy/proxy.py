@@ -1,13 +1,5 @@
 """
-Proxy Pattern becomes handy when creating resource-intensive objects
-
-Problem:
-- Postpone object creation unless absolutely necessary (due to the high resource requirements of the object we are creating)
-- We can do a Placeholder
-
-Solution:
-- Clients interacting with a Proxy
-- Proxy - responsible for creating resource-intensive objects
+Proxy is used in places where you want to add functionality to a class without changing its interface.
 """
 import time
 
@@ -51,7 +43,7 @@ class Proxy:
 p = Proxy()
 
 # Make the proxy: Artist produce until Producer is available
-# p.produce()
+p.produce()
 
 # Change the state to 'occupied'
 p.occupied = 'Yes'

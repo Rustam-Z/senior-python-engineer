@@ -40,7 +40,7 @@ class PetStore:
     def show_pet(self):
         """ Utility method to display the details of the objects returned by the DogFactory """
 
-        pet = self.get_pet()
+        pet = self._pet_factory.get_pet()
         pet_food = self._pet_factory.get_food()
 
         print(f"Our pet is '{pet}'!")

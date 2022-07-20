@@ -1,77 +1,53 @@
 """
 Adapter pattern - making the incompatible objects adaptable to each other.
-by converting the interface of a class into another one that a client is expecting
+                  Converts the interface of a class into another one that a client is expecting.
 
-Problem:
-- Interface incompatible between client and server.
+For example, Adapter could help convert XML data format to JSON for further analysis.
 
-Scenario:
-- Korean: speak_Korean()
-- English: speak_English()
-- Client needs uniform interface: speak()
-
-Solution:
-- Adapter pattern to translate the method names between server and client.
++ Allows separating the interface from business logic.
++ Adding new adapters doesn’t break the client’s code
+- Increases the code complexity
 
 Bridge and decorator related to Adapter pattern.
 """
 
 
-class Korean:
-    """Korean speaker"""
-
-    def __init__(self):
-        self.name = "Korean"
-
-    def speak_korean(self):
-        return "An-neyong?"
+class Target:
+    def request(self):
+        return "Target: The default target's behavior."
 
 
-class British:
-    """English speaker"""
-
-    def __init__(self):
-        self.name = "British"
-
-    # Note the different method name here!
-    def speak_english(self):
-        return "Hello!"
+class Adaptee:
+    def specific_request(self):
+        return ".eetpadA eht fo roivaheb laicepS"
 
 
-class Adapter:
-    """This changes the generic method name to individualized method names"""
-
-    def __init__(self, adapter_object, **adapted_method):
-        """Change the name of the method"""
-        self._object = adapter_object
-
-        # Add a new dictionary item that establishes the mapping between the generic method name: speak() and the
-        # concrete method For example, speak() will be translated to speak_korean() if the mapping says so
-        self.__dict__.update(adapted_method)
-
-    def __getattr__(self, attr):
-        """Simply return the rest of attributes!"""
-        return getattr(self._object, attr)
-
-    def original_dict(self):
-        """Print original object dict"""
-        return self._object.__dict__
+class Adapter(Target, Adaptee):
+    def request(self):
+        return f"Adapter: (TRANSLATED) {self.specific_request()[::-1]}"
 
 
-# List to store speaker objects
-objects = []
+def client_code(target: "Target"):
+    print(target.request())
 
-# Create a Korean object
-korean = Korean()
 
-# Create a British object
-british = British()
+def main():
+    print("Client: I can work just fine with the Target objects:")
 
-# Append the objects to the objects list
-objects.append(Adapter(korean, speak=korean.speak_korean))
-objects.append(Adapter(british, speak=british.speak_english))
+    target = Target()
+    client_code(target)
 
-# print(Adapter(korean, speak=korean.speak_korean).original_dict())
+    adaptee = Adaptee()
 
-for obj in objects:
-    print("{} says '{}'\n".format(obj.name, obj.speak()))
+    print("Client: The Adaptee class has a weird interface. "
+          "See, I don't understand it:")
+    print(f"Adaptee: {adaptee.specific_request()}")
+
+    print("Client: But I can work with it via the Adapter:")
+
+    adapter = Adapter()
+    client_code(adapter)
+
+
+if __name__ == "__main__":
+    main()

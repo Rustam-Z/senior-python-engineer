@@ -53,3 +53,4 @@ if __name__ == "__main__":
     c1 = prototype.clone('skylark')
 
     print(c1)
+    print(id(c), id(c1))  # Different

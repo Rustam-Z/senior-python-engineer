@@ -1,13 +1,13 @@
 """
 Singleton is used when you want to allow only one object to be instantiated from a class.
+
+Borg pattern making the class attributes global.
+There are multiple instances that share the same state.
+Sharing state instead of sharing instance.
 """
 
 
 class Borg:
-    """Borg pattern making the class attributes global.
-    There are multiple instances that share the same state.
-    Sharing state instead of sharing instance.
-    """
     _shared_data = {}  # Class attribute dictionary
 
     def __init__(self):
@@ -18,9 +18,6 @@ class Singleton(Borg):
     """This class now shares all its attributes among its various instances.
     This essentially makes the singleton objects an object-oriented global variable.
     """
-    def __new__(cls, *args, **kwargs):
-        pass
-
     def __init__(self, **kwargs):
         super().__init__()  # Borg.__init__(self)
         self._shared_data.update(kwargs)  # Update the attribute dictionary by inserting a new key-value pair
@@ -39,8 +36,3 @@ if __name__ == "__main__":
     y = Singleton(SNMP="Simple Network Management Protocol")
 
     print(y)
-
-
-
-
-

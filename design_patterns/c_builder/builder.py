@@ -63,9 +63,6 @@ if __name__ == "__main__":
     builder = SkyLarkBuilder()
 
     director = Director(builder)
-
     director.construct_car()
-
     car = director.get_car()
-
-    print(car)
+    print(car)  # Skylark | Regular tires | Turbo engine

@@ -1,30 +1,27 @@
+"""
+Singleton restricts a class from having more than one instance and ensures a global access point to this instance.
+
+Use case. Singleton helps
+    - Manage a shared resource: i.e. a single database, file manager, or printer spooler shared by multiple parts of the application.
+    - Store a global state (help filepath, user language, application path, etc.).
+    - Create a simple logger.
+
++ Class has a single instance
+- Violates the SRP (Single Responsibility Principle).
+- It’s hard to unit test the code as the majority of test frameworks use inheritance when creating mock objects.
+"""
+
+
 class Singleton:
-    __instance = None
-
-    @staticmethod
-    def get_instance():
-        """ Static access method. """
-        if Singleton.__instance is None:
-            Singleton()
-        return Singleton.__instance
-
-    def __init__(self):
-        """ Virtually private constructor. """
-        if Singleton.__instance is not None:
-            raise Exception("This class is a singleton!")
-        else:
-            Singleton.__instance = self
+    def __new__(cls):
+        if not hasattr(cls, 'instance'):
+            cls.instance = super(Singleton, cls).__new__(cls)
+        return cls.instance
 
 
-s = Singleton()
-print(s)
+if __name__ == "__main__":
+    s = Singleton()
+    print("Object created:", s)
 
-s = Singleton.get_instance()
-print(s)
-
-s = Singleton.get_instance()
-print(s)
-
-# The code below will raise Exception.
-# s2 = Singleton()
-# print(s2)
+    s1 = Singleton()
+    print("Object created:", s1)
