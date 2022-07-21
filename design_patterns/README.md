@@ -4,6 +4,7 @@ Design patterns are the best formalized practices a programmer can use to solve 
 ### Types of design patterns
 - Creational - designed for object creation to increase flexibility and reuse of existing code. Polymorphism is used.
 - Structural - establishes relationship between classes making larger structures. Inheritance is used.
+  - Whenever you think designing architecture for your system, structural design patterns help you to plan for the future, arrange classes in neat hierarchies.
 - Behavioral - effective communications and interactions between objects/classes. Methods are used.
 
 ### Using common design patterns, you can:
@@ -18,7 +19,7 @@ Design patterns are the best formalized practices a programmer can use to solve 
    - [Borg](c_singleton/borg.py), allows all instances of one class share common data.
    - [Factory](c_factory/factory.py), the method that helps to create other objects.
    - [Factory abstract](c_factory/abstact_factory.py), like factory but object that provides a way to encapsulate a group of individual factories.
-   - [Builder](c_builder/builder.py), separating class from building complex object.
+   - [Builder + Director](c_builder/builder.py), separating class from building complex object.
    - [Prototype](c_prototype/prototype.py), registers object and clones objects (if instantiation is costly).
    - [Pool](c_pool/pool.py), like flyweight but for mutable objects.
 3. Structural
@@ -26,8 +27,8 @@ Design patterns are the best formalized practices a programmer can use to solve 
    - [Decorator](s_decorator/decorator.py), attaches new behaviors to the objects without modifying their structure.
    - [Adapter](s_adapter/adapter.py), makes incompatible objects adaptable to each other. Ex: `speak=english.hello(), speak=korean.anyong()`
    - [Bridge](s_bridge/bridge.py), separates the implementation from the API. Ex: DrawingAPIOne, DrawingAPITwo
-   - [Proxy](s_proxy/proxy.py), like decorator, adds functionality to a class without  changing its interface.
-   - [Composite](s_composite/c omposite.py), describes a group of objects the same way as a single instance, with Tree data structure.
+   - [Proxy](s_proxy/proxy.py), like decorator, adds functionality to a class without changing its interface.
+   - [Composite](s_composite/composite.py), describes a group of objects the same way as a single instance, with Tree data structure.
    - [Flyweight](s_flyweight/flyweight.py), reuses existing instances of objects with similar/identical state.
 4. Behavioural
    - [Iterator](b_iterator/iterator.py), helps to iterate through the elements of collection.
