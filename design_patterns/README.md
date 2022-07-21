@@ -1,4 +1,5 @@
 # Design Patterns with Python
+Design patterns are the best formalized practices a programmer can use to solve common problems when designing an application or system.
 
 ### Types of design patterns
 - Creational - designed for object creation to increase flexibility and reuse of existing code. Polymorphism is used.
@@ -15,8 +16,8 @@
 1. Creational
    - [Singleton](c_singleton/singleton.py), restricts a class from having more than one instance and ensures a global access point to this instance.
    - [Borg](c_singleton/borg.py), allows all instances of one class share common data.
-   - [Factory](c_factory/factory.py), the object helps to create other objects.
-   - [Factory abstract](c_factory/abstact_factory.py), like factory but abstract factory is an object.
+   - [Factory](c_factory/factory.py), the method that helps to create other objects.
+   - [Factory abstract](c_factory/abstact_factory.py), like factory but object that provides a way to encapsulate a group of individual factories.
    - [Builder](c_builder/builder.py), separating class from building complex object.
    - [Prototype](c_prototype/prototype.py), clones object.
    - [Pool](c_pool/pool.py), like flyweight but for mutable objects
@@ -26,7 +27,7 @@
    - [Adapter](s_adapter/adapter.py), makes incompatible objects adaptable to each other. Ex: `speak=english.hello(), speak=korean.anyong()`
    - [Bridge](s_bridge/bridge.py), separates the implementation from the API. Ex: DrawingAPIOne, DrawingAPITwo
    - [Proxy](s_proxy/proxy.py), like decorator, adds functionality to a class without  changing its interface.
-   - [Composite](s_composite/composite.py), describes a group of objects the same way as a single instance, with Tree data structure.
+   - [Composite](s_composite/c omposite.py), describes a group of objects the same way as a single instance, with Tree data structure.
    - [Flyweight](s_flyweight/flyweight.py), reuses existing instances of objects with similar/identical state.
 4. Behavioural
    - [Iterator](b_iterator/iterator.py), helps to iterate through the elements of collection.
@@ -41,5 +42,6 @@
 - https://www.linkedin.com/learning/python-design-patterns/welcome?u=2113185
 - https://github.com/faif/python-patterns
 - https://jellyfish.tech/implementation-of-common-design-patterns-in-python/
-- https://python-patterns.guide
+- https://youtube.com/playlist?list=PLO6785UZapFX5bO4ZZSO7Unn2uOTNFqfQ
 - https://www.toptal.com/python/python-design-patterns
+- https://python-patterns.guide
