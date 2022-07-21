@@ -15,7 +15,6 @@ import copy
 
 
 class Prototype:
-
     def __init__(self):
         self._objects = {}
 
@@ -52,5 +51,5 @@ if __name__ == "__main__":
 
     c1 = prototype.clone('skylark')
 
-    print(c1)
-    print(id(c), id(c1))  # Different
+    print(c1)  # Skylark | Red | Ex
+    print(id(c), id(c1))  # Different ids

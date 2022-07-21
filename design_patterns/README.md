@@ -19,8 +19,8 @@ Design patterns are the best formalized practices a programmer can use to solve 
    - [Factory](c_factory/factory.py), the method that helps to create other objects.
    - [Factory abstract](c_factory/abstact_factory.py), like factory but object that provides a way to encapsulate a group of individual factories.
    - [Builder](c_builder/builder.py), separating class from building complex object.
-   - [Prototype](c_prototype/prototype.py), clones object.
-   - [Pool](c_pool/pool.py), like flyweight but for mutable objects
+   - [Prototype](c_prototype/prototype.py), registers object and clones objects (if instantiation is costly).
+   - [Pool](c_pool/pool.py), like flyweight but for mutable objects.
 3. Structural
    - [Facade](s_facade/facade.py), hides the complexity of implementations. New API on top of other APIs.
    - [Decorator](s_decorator/decorator.py), attaches new behaviors to the objects without modifying their structure.
