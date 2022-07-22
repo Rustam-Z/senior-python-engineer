@@ -28,7 +28,7 @@ Design patterns are the best formalized practices a programmer can use to solve 
    - [Adapter](s_adapter/adapter.py), makes incompatible objects adaptable to each other. Ex: `speak=english.hello(), speak=korean.anyong()`
    - [Bridge](s_bridge/bridge.py), separates the implementation from the API. Ex: DrawingAPIOne, DrawingAPITwo
    - [Proxy](s_proxy/proxy.py), like decorator, adds functionality to a class without changing its interface.
-   - [Composite](s_composite/composite.py), describes a group of objects the same way as a single instance, with Tree data structure.
+   - [Composite](s_composite/composite.py), describes a group of objects the same way as a single instance, using Tree data structure.
    - [Flyweight](s_flyweight/flyweight.py), reuses existing instances of objects with similar/identical state.
 4. Behavioural
    - [Iterator](b_iterator/iterator.py), helps to iterate through the elements of collection.
