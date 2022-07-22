@@ -33,14 +33,14 @@ Design patterns are the best formalized practices a programmer can use to solve 
 4. Behavioural
    - [Iterator](b_iterator/iterator.py), helps to iterate through the elements of collection.
    - [Observer](b_observer/observer.py), lets subscribed entities know about changes in an observable. Ex: Elon & Twitter.
-   - [Publish & Subscribe](b_publish_subscribe), a source syndicates events/data to 0+ registered listeners.
+   - [Publish & Subscribe](b_publish_subscribe/publish_subscribe.py), a source syndicates events/data to 0+ registered listeners.
    - [Strategy](b_strategy/strategy.py), enables our application to select algorithms (method) at runtime.
    - [Visitor](b_visitor/visitor.py), adds new features to an existing hierarchy without changing its structure. Ex: electricity, hvac.
    - [Mediator](b_mediator/mediator.py), objects in a system communicate through a Mediator instead of directly with each other.
    - [Chain of responsibility](b_chain_of_responsibility/chain_of_responsibility.py), allows a request to pass down a chain of receivers until it is handled.
-   - Template
-   - Momento
-   - State
+   - [Template](b_template/template.py), defines the skeleton of a base algorithm, deferring definition of exact steps to subclasses.
+   - Momento, generate an opaque token that can be used to go back to a previous state.
+   - State, logic is organized into a discrete number of potential states and the next state that can be transitioned to
 
 ## Resources
 - https://www.linkedin.com/learning/python-design-patterns/welcome?u=2113185
