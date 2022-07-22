@@ -26,10 +26,10 @@ Design patterns are the best formalized practices a programmer can use to solve 
    - [Facade](s_facade/facade.py), hides the complexity of implementations. New API on top of other APIs.
    - [Decorator](s_decorator/decorator.py), attaches new behaviors to the objects without modifying their structure.
    - [Adapter](s_adapter/adapter.py), makes incompatible objects adaptable to each other. Ex: `speak=english.hello(), speak=korean.anyong()`
-   - [Bridge](s_bridge/bridge.py), separates the implementation from the API. Ex: DrawingAPIOne, DrawingAPITwo
-   - [Proxy](s_proxy/proxy.py), like decorator, adds functionality to a class without changing its interface.
+   - [Bridge](s_bridge/bridge.py), separates the implementation from abstraction. Ex: DrawingAPIOne, DrawingAPITwo
    - [Composite](s_composite/composite.py), describes a group of objects the same way as a single instance, using Tree data structure.
-   - [Flyweight](s_flyweight/flyweight.py), reuses existing instances of objects with similar/identical state.
+   - [Proxy](s_proxy/proxy.py), like decorator, adds functionality to a class without changing its interface.
+   - [Flyweight](s_flyweight/flyweight.py), cache, reuses existing instances of objects with similar/identical state.
 4. Behavioural
    - [Iterator](b_iterator/iterator.py), helps to iterate through the elements of collection.
    - [Observer](b_observer/observer.py), lets subscribed entities know about changes in an observable. Ex: Elon & Twitter.

@@ -1,5 +1,9 @@
 """
 Proxy is used in places where you want to add functionality to a class without changing its interface.
+
+Proxy controls access to an object, while decorator adds responsibilities.
+Decorator informs and empowers its client.
+Proxy restricts and dis-empowers its client.
 """
 import time
 
