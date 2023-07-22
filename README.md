@@ -2,26 +2,22 @@
 
 By Rustam-Z 🚀 | 31 May 2022
 
-## L3 Skill Set
+## Senior Python Developer Skill Set
 
 - Advanced Python.Core and Python.OOP
-- Python clean code
-- SOLID Principles
-- Design Patterns
+- Python clean coding
+- Development principles (SOLID, DRY, KISS...) and design patterns
 - Parallel programming and concurrency
 - [Fancy data types](data_structures): `dataclasses`, `collections`, `typing`
 - Must know libraries: `logging`, `argparse`, `pathlib`, `os`, `sys`, `requests`, `itertools`, `json`, `yaml`, `csv`
-- Testing: PyTest, unittest
-- *Web UI Automation: Selenium
-- *Cloud SDK: AWS Boto3
-
+- Testing: API and E2E testing with PyTest, unittest, and Selenium
 
 ## Python Resources
 
-### GitHub
+### TOP GitHub Repositories
 
 - [senior](https://github.com/matacoder/senior)
-- [awesome-interview-questions]()
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions#python)
 - [break-the-ice-with-python](https://github.com/darkprinx/break-the-ice-with-python)
 
 ### Readings
