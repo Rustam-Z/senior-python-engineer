@@ -43,6 +43,7 @@ Design patterns are the best formalized practices a programmer can use to solve 
    - State, logic is organized into a discrete number of potential states and the next state that can be transitioned to
 
 ## Resources
+- https://youtu.be/tAuRQs_d9F8
 - https://www.linkedin.com/learning/python-design-patterns/welcome?u=2113185
 - https://github.com/faif/python-patterns
 - https://jellyfish.tech/implementation-of-common-design-patterns-in-python/
