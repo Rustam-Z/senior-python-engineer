@@ -31,6 +31,8 @@ By Rustam-Z 🚀 | 31 May 2022
 - `medium`, https://docs.python-guide.org
 - `advanced`, https://thedigitalcatonline.com
 - `advanced`, https://python-3-patterns-idioms-test.readthedocs.io
+- https://www.fullstackpython.com
+- https://testdriven.io/ 
 
 ### Python Clean Code
 
