@@ -2,7 +2,7 @@
 
 By Rustam-Z 🚀
 
-Can be used for Backend Developers, Data engineers, Test Automation engineers, and anyone who wants to advance in Python.
+Can be used by Backend Developers, Data engineers, Test Automation engineers, and anyone who wants to advance in Python.
 
 ## Senior Python Developer Skill Set
 
