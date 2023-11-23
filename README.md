@@ -2,9 +2,11 @@
 
 By Rustam-Z 🚀
 
+Can be used for Backend Developers, Data engineers, Test Automation engineers, and anyone who wants to advance in Python.
+
 ## Senior Python Developer Skill Set
 
-- Advanced Python.Core and Python.OOP
+- Advanced Python.Core and Python.OOP: object model, decorators, iterators, generators, context managers, OOP tricks.
 - Python clean coding, and engineering excellence
 - Development principles (SOLID, DRY, KISS...) and design patterns
 - Parallel programming, concurrency, async
