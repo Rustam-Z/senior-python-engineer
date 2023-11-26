@@ -21,6 +21,7 @@ Can be used by Backend Developers, Data engineers, Test Automation engineers, an
 - [senior](https://github.com/matacoder/senior)
 - [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions#python)
 - [break-the-ice-with-python](https://github.com/darkprinx/break-the-ice-with-python)
+- [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 
 ### Advanced Python.Core and Python.OOP
 
