@@ -96,28 +96,29 @@ Can be used by Backend Developers, Data engineers, Test Automation engineers, an
 - https://www.youtube.com/@yegor256
 - Watch conference recordings
 
+## What's next?
+- Dive into System Design topics: watch the "Systems Expert by AlgoExpert" course + read the "System Design interview" book.
+- Dive into DevOps and Cloud Arch.
+- Dive into database topics.
+- Constantly upgrade your coding and engineering excellence skills.
+
 ## General engineering resources
 1. https://blog.pragmaticengineer.com/
 2. https://careercutler.substack.com/?r=1r629c
-3. Clean Code: A Handbook of Agile Software Craftsmanship
-4. Clean Architecture
-5. Code Craft: The Practice of Writing Excellent Code
-6. The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)
-7. Beautiful Code: Leading Programmers Explain How They Think
-8. "On Managing Yourself"
-9. "How to answer the 64 toughest interview questions"
-10. "The Pragmatic Programmer: From Journeyman to Master"
-11. "Code Complete: A Practical Handbook of Software Construction, Second Edition"
-12. "The Mythical Man-Month: Essays on Software Engineering"
-13. "Soft Skills: The software developer's life manual"
-14. "Programming Interviews Exposed"
-15. "Elements of Programming Interviews: The Insiders' Guide 2nd Edition"
-16. "Programming Pearls 2nd Edition"
-
-
-## What's next?
-- Dive into System Design topics: watch the "Systems Expert by AlgoExpert" course + read the "System Design interview" book
-- Dive into DevOps and Cloud Arch.
-- Dive into database topics
-- Constantly upgrade your coding and engineering excellence skills
-  
+3. https://github.com/kilimchoi/engineering-blogs
+4. https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up
+5. Clean Code: A Handbook of Agile Software Craftsmanship
+6. Clean Architecture
+7. Code Craft: The Practice of Writing Excellent Code
+8. The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)
+9. Beautiful Code: Leading Programmers Explain How They Think
+10. "On Managing Yourself"
+11. "How to answer the 64 toughest interview questions"
+12. "The Pragmatic Programmer: From Journeyman to Master"
+13. "Code Complete: A Practical Handbook of Software Construction, Second Edition"
+14. "The Mythical Man-Month: Essays on Software Engineering"
+15. "Soft Skills: The software developer's life manual"
+16. "Programming Interviews Exposed"
+17. "Elements of Programming Interviews: The Insiders' Guide 2nd Edition"
+18. "Programming Pearls 2nd Edition"
+    
