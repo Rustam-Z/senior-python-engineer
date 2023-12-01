@@ -103,22 +103,49 @@ Can be used by Backend Developers, Data engineers, Test Automation engineers, an
 - Constantly upgrade your coding and engineering excellence skills.
 
 ## General engineering resources
-1. https://blog.pragmaticengineer.com/
-2. https://careercutler.substack.com/?r=1r629c
+### Books
+6. Clean Code: A Handbook of Agile Software Craftsmanship
+7. Clean Architecture
+8. Code Craft: The Practice of Writing Excellent Code
+9. The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)
+10. Beautiful Code: Leading Programmers Explain How They Think
+11. "On Managing Yourself"
+12. "How to answer the 64 toughest interview questions"
+13. "The Pragmatic Programmer: From Journeyman to Master"
+14. "Code Complete: A Practical Handbook of Software Construction, Second Edition"
+15. "The Mythical Man-Month: Essays on Software Engineering"
+16. "Soft Skills: The software developer's life manual"
+17. "Programming Interviews Exposed"
+18. "Elements of Programming Interviews: The Insiders' Guide 2nd Edition"
+19. "Programming Pearls 2nd Edition"
+
+### Engineering Blogs
 3. https://github.com/kilimchoi/engineering-blogs
 4. https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up
-5. Clean Code: A Handbook of Agile Software Craftsmanship
-6. Clean Architecture
-7. Code Craft: The Practice of Writing Excellent Code
-8. The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)
-9. Beautiful Code: Leading Programmers Explain How They Think
-10. "On Managing Yourself"
-11. "How to answer the 64 toughest interview questions"
-12. "The Pragmatic Programmer: From Journeyman to Master"
-13. "Code Complete: A Practical Handbook of Software Construction, Second Edition"
-14. "The Mythical Man-Month: Essays on Software Engineering"
-15. "Soft Skills: The software developer's life manual"
-16. "Programming Interviews Exposed"
-17. "Elements of Programming Interviews: The Insiders' Guide 2nd Edition"
-18. "Programming Pearls 2nd Edition"
-    
+5. https://blog.pragmaticengineer.com/
+2. https://careercutler.substack.com/?r=1r629c
+6. Software Engineering Daily - https://lnkd.in/gi5UgrZn
+7. The Engineering Room by Dave Farley - https://lnkd.in/gCsrhEUb
+8. Small Batches by Adam Hawkins - https://smallbatches.fm/
+9. Algorithms + Data Structures by Bryce Adelstein Lelbach and Conor Hoekstra - https://lnkd.in/gAbnrr6g
+10. The Changelog by Adam Stacoviak and Jerod Santo - https://lnkd.in/ghkzTWFR
+11. Backend Banter by Lane Wagner - https://lnkd.in/gwhYrUd4
+12. The Backend Engineering Show by Hussein Nasser https://lnkd.in/gcKD5kCm
+13. SRE Prodcast by Google - https://lnkd.in/ggpPrZhV
+14. The Mob Mentality Show by Chris Lucian and Austin Chadwick - https://lnkd.in/gBttgzy2
+15. Soft Skills Engineering Podcast by Dave Smith and Jamison Dance - https://softskills.audio/
+16. Working Code by Adam, Ben, Carol, and Tim - https://workingcode.dev/
+17. Dude Where’s My Code by Nick Cosentino and Graeme Harvey - https://lnkd.in/g6i-ry4G
+18. Signals & Threads by Ron Minsky - https://lnkd.in/gnKzUiCK
+19. Develop Yourself by Brian Jenney Jenny - https://lnkd.in/gqv5jBYb
+20. Coding Blocks by Allen Underwood, Joe Zack and Michael Outlaw - https://lnkd.in/gAYwJKSz
+21. Developer Voices by Kris Jenkins - https://lnkd.in/gVTrEj5M
+22. Happy Path Programming by Bruce Eckel and James Ward - https://lnkd.in/gqXHYQ8x
+23. Exponential Growth by James Hudnall - https://lnkd.in/gHdS3cY5
+24. The Geek Narrator by Kaivalya Apte - https://lnkd.in/gMNHBTwa
+25. Go Time - https://lnkd.in/gKY8cMZA
+26. CppCast by Timur Doumler and Phil Nash - https://cppcast.com/
+27. The InfoQ Podcasts - https://lnkd.in/gabJA47Y
+28. Software Engineering Radio - https://www.se-radio.net/
+29. Develop Yourself by Brian Jenny - https://lnkd.in/gqv5jBYb
+30. Tech Lead Journal by Henry Suryawirawan https://lnkd.in/gYdrfuPz
