@@ -36,3 +36,4 @@
 - https://github.com/heykarimoff/solid.python/
 - https://www.linkedin.com/learning/learning-s-o-l-i-d-programming-principles
 - https://www.pythontutorial.net/python-oop/python-single-responsibility-principle/
+- https://www.linkedin.com/pulse/solid-what-do-you-need-know-fred-peixoto-aovmf/?utm_source=share&utm_medium=member_android&utm_campaign=share_via
