@@ -37,7 +37,7 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 - [Python OOP 8 tips](https://towardsdatascience.com/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)
 - [realpython.com best practices ](https://realpython.com/tutorials/best-practices/)
 - [Python object model](https://youtu.be/pQdcfCmwFak?feature=shared)
--  medium`, https://book.pythontips.com
+- `medium`, https://book.pythontips.com
 - `medium`, https://medium.com/techtofreedom/python/home
 - `medium`, https://pythontutorial.net
 - `medium`, https://docs.python-guide.org
