@@ -6,19 +6,20 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 
 ## Senior Python Developer Skill Set
 - Advanced Python topics
-  - Object model, data structures (mutable and immutable, shallow and deep copy, dict hashing, data type caching in Python)
+  - Object model, data structures (mutable and immutable, LEGB rule, shallow and deep copy, dict hashing, data type caching in Python)
   - Dataclasses, `collections` 
   - Decorators
   - Iterators, generators
   - Context managers
-  - Advanced topics in OOP (Method Resolution Order MRO, diamond problem inheretance, dunder methods, ABC abstract class, super(), descriptors, property, method overriding and overloading, duck typing, monkey patching, mixin)
+  - Advanced topics in OOP (Method Resolution Order MRO, Inheritance diamond problem, dunder methods, ABC abstract class, `super()`, descriptors, property, method overriding and overloading, duck typing, monkey patching, mixin)
   - Global Interpreter Lock (GIL)
-  - Concurency: threading and multiprocessing
-  - Asynchronous programming
+  - Concurency: `threading`, `asyncio`, I/O bound
+  - Asynchronous programming (Python Coroutines, async & await)
+  - Parallelism: `multiprocessing`, CPU bound
   - Memory management (garbage collector, stack and heap memory, reference counting, three generation garbage collection mechanism)
   - Metaprogramming (runtime code execution)
 - Python clean coding, and engineering excellence.
-  - *Check resources below ⬇️*
+  - *Check resources below* ⬇️
 - Development principles (SOLID, DRY, KISS)
   - [SOLID](https://github.com/Rustam-Z/senior-python-engineer/tree/main/solid)
 - [Coding design patterns](https://github.com/Rustam-Z/senior-python-engineer/tree/main/design_patterns#design-patterns-with-python)
@@ -28,8 +29,8 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
   - Selenium for UI end-to-end testing
   - Code coverage and static analysis tools
 - Profiling and optimization with `cProfile`
-- Package and environment management (Poetr, PyPi)
-- Must know: `logging`, `argparse`, `pathlib`, `os`, `sys`, `requests`, `itertools`, `json`, `yaml`, `csv`, regex
+- Package and environment management (Poetry, PyPi)
+- Must know libraries: `logging`, `argparse`, `pathlib`, `os`, `sys`, `requests`, `itertools`, `json`, `yaml`, `csv`, regex
 
 ## Python Resources
 
