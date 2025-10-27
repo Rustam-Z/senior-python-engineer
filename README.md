@@ -135,4 +135,5 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 - Dive into System Design topics: watch the "Systems Expert by AlgoExpert" course, read the "System Design interview" book.
 - Dive into DevOps and Cloud Arch, pass AWS Solution Architect Certification.
 - Dive into database topics (scalability, sharding, replication, NoSQL databases, CAP theorem).
+- Learn best practices in the areas of your interest: backend, AI, automation.
 - Constantly upgrade your coding and engineering excellence skills.
