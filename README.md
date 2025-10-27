@@ -12,11 +12,12 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
   - Iterators, generators
   - Context managers
   - Advanced topics in OOP (Method Resolution Order MRO, Inheritance diamond problem, dunder methods, ABC abstract class, `super()`, descriptors, property, method overriding and overloading, duck typing, monkey patching, mixin)
-  - Global Interpreter Lock (GIL)
   - Concurency: `threading`, `asyncio`, I/O bound
-  - Asynchronous programming (Python Coroutines, async & await)
+  - Asynchronous programming (coroutines, async & await)
   - Parallelism: `multiprocessing`, CPU bound
-  - Memory management (garbage collector, stack and heap memory, reference counting, three generation garbage collection mechanism)
+  - Memory management
+  - Global Interpreter Lock (GIL)
+  - Garbage collector (reference counting, three generation garbage collection mechanism)
   - Metaprogramming (runtime code execution)
 - Python clean coding, and engineering excellence.
   - *Check resources below* ⬇️
