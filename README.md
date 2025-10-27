@@ -12,7 +12,7 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
   - Iterators, generators
   - Context managers
   - Advanced topics in OOP (Method Resolution Order MRO, Inheritance diamond problem, dunder methods, ABC abstract class, `super()`, descriptors, property, method overriding and overloading, duck typing, monkey patching, mixin)
-  - Concurency: `threading`, `asyncio`, I/O bound
+  - Concurrency: `threading`, `asyncio`, I/O bound
   - Asynchronous programming (coroutines, async & await)
   - Parallelism: `multiprocessing`, CPU bound
   - Memory management
