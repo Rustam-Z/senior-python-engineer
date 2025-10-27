@@ -4,7 +4,7 @@
 
 Can be used by Backend Developers, Data Engineers, Automation Engineers, and anyone who wants to advance in Python.
 
-## Senior Python Developer Skill Set
+# Senior Python Developer Skill Set
 - Advanced Python topics
   - Object model, data structures (mutable and immutable, LEGB rule, shallow and deep copy, dict hashing, data type caching in Python)
   - Dataclasses, `collections` 
@@ -32,9 +32,9 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 - Package and environment management (Poetry, PyPi)
 - Must know libraries: `logging`, `argparse`, `pathlib`, `os`, `sys`, `requests`, `itertools`, `json`, `yaml`, `csv`, regex
 
-## Python Resources
+# Python Resources
 
-### Advanced Python Resources
+## Advanced Python Resources
 - [Python OOP 8 tips](https://towardsdatascience.com/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)
 - [realpython.com best practices ](https://realpython.com/tutorials/best-practices/)
 - [Python object model](https://youtu.be/pQdcfCmwFak?feature=shared)
@@ -47,7 +47,7 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 - `advanced`, https://www.fullstackpython.com
 - `advanced`, https://testdriven.io/
 
-### Clean Coding
+## Clean Coding
 - [GitHub: Python clean code](https://github.com/zedr/clean-code-python)
 - [PEP 8](https://peps.python.org/pep-0008/)
 - [Google's Python style guide](https://google.github.io/styleguide/pyguide.html)
@@ -55,26 +55,26 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 - [LinkedIn: Clean coding practices](https://www.linkedin.com/learning/agile-software-development-clean-coding-practices)
 - [LinkedIn: Advanced Python](https://www.linkedin.com/learning/advanced-python)
 
-### SOLID & Design Patterns
+## SOLID & Design Patterns
 - [My notes on SOLID](https://github.com/Rustam-Z/senior-python-engineer/tree/main/solid)
 - [My notes of design patterns](https://github.com/Rustam-Z/senior-python-engineer/tree/main/design_patterns#design-patterns-with-python)
 - [Python design patterns](https://github.com/faif/python-patterns)
 - [YouTube: 8 Design Patterns EVERY Developer Should Know](https://www.youtube.com/watch?v=tAuRQs_d9F8)
 - [YouTube: 10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
 
-### Parallel programming
+## Parallel programming
 - [Concurrency and Async Programming, realpython.com](https://realpython.com/learning-paths/python-concurrency-parallel-programming)
 - [LinkedIn: Python Parallel and Concurrent Programming Part 1](https://www.linkedin.com/learning/python-parallel-and-concurrent-programming-part-1)
 - [LinkedIn: Python Parallel and Concurrent Programming Part 2](https://www.linkedin.com/learning/python-parallel-and-concurrent-programming-part-2)
 
-### Python Testing
+## Python Testing
 - Book “Python testing with PyTest”
 - Book “Python testing with Selenium”
 - Book “TDD in Python”
 - Book “Python Unit Test Automation“
 - Book "XUnit Test Patterns" book
 
-### Python Books
+## Python Books
 - "Python basics"
 - "Python tricks"
 - "Clean Python"
@@ -89,27 +89,21 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 - “The Python workshop”
 - “Expert Python Programming”
 
-### Other GitHub Repositories
+## Other GitHub Repositories
 - [senior](https://github.com/matacoder/senior)
 - [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 - [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions#python)
 - [break-the-ice-with-python](https://github.com/darkprinx/break-the-ice-with-python)
 
-### YouTube Channels to Follow
+## YouTube Channels to Follow
 - [@mCodingWithJamesMurphy](https://youtube.com/c/mCodingWithJamesMurphy)
 - [@ArjanCodes](https://youtube.com/c/ArjanCodes)
 - [RU: Yandex Python Practicum](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku) 
 - [Corey Scafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 - Watch conference recordings
 
-## 🚩 What's next? 
-- Dive into System Design topics: watch the "Systems Expert by AlgoExpert" course + read the "System Design interview" book.
-- Dive into DevOps and Cloud Arch.
-- Dive into database topics.
-- Constantly upgrade your coding and engineering excellence skills.
-
-## Software Engineering Resources
-### Books
+# Software Engineering Resources
+## Books
 - "Clean Code: A Handbook of Agile Software Craftsmanship"
 - "Clean Architecture"
 - "Code Craft: The Practice of Writing Excellent Code"
@@ -118,7 +112,7 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 - "The Pragmatic Programmer: From Journeyman to Master"
 - "Code Complete: A Practical Handbook of Software Construction"
 
-### Soft Skills Books
+## Soft Skills Books
 - "Soft Skills: The software developer's life manual"
 - "On Managing Yourself"
 - "How to answer the 64 toughest interview questions"
@@ -127,7 +121,7 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 - "Elements of Programming Interviews: The Insiders' Guide 2nd Edition"
 - "Programming Pearls 2nd Edition"
   
-### Engineering Blogs
+## Engineering Blogs
 - [daily.dev](https://daily.dev/)
 - [YouTube: @yegor256](https://www.youtube.com/@yegor256)
 - [bytebytego.com](https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up)
@@ -136,3 +130,9 @@ Can be used by Backend Developers, Data Engineers, Automation Engineers, and any
 - [YouTube: The Engineering Room by Dave Farley](https://www.youtube.com/playlist?app=desktop&list=PLwLLcwQlnXByuoAE-jYYg8MSNrzodVtJX)
 - [Small Batches by Adam Hawkins](https://smallbatches.fm/)
 - [GitHub: engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+
+# 🚩 What's next? 
+- Dive into System Design topics: watch the "Systems Expert by AlgoExpert" course, read the "System Design interview" book.
+- Dive into DevOps and Cloud Arch, pass AWS Solution Architect Certification.
+- Dive into database topics (scalability, sharding, replication, NoSQL databases, CAP theorem).
+- Constantly upgrade your coding and engineering excellence skills.
