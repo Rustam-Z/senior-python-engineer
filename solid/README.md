@@ -1,4 +1,4 @@
-# Python S.O.L.I.D Principles - Create more classes
+# S.O.L.I.D Principles
 
 ### Why follow SOLID?
 - Some problems without SOLID
