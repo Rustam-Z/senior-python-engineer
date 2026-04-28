@@ -4,7 +4,12 @@
 
 Can be used by Backend Developers, Data Engineers, Automation Engineers, and anyone who wants to advance in Python.
 
+# Pre-requisite
+
+Check [github.com/Rustam-Z/python-programming](https://github.com/Rustam-Z/python-programming) repository. 
+
 # Senior Python Developer Skill Set
+
 - Advanced Python topics
   - Object model, data structures (mutable and immutable, LEGB rule, shallow and deep copy, dict hashing, data type caching in Python)
   - Dataclasses, `collections` 
